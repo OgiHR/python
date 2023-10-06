@@ -1,0 +1,296 @@
+Judul ,Tahun,Nama Penulis ,Abstrak,Keywords
+"PENENTUAN HARGA OPSI EXCHANGE DENGAN
+MENGGUNAKAN MODEL BLACK-SCHOLES",2021,ISNA NUR FAJRIAH,"Exchange option is an option to exchange one asset for another at maturity.
+This option is simultaneously a call option on one asset and a put option on the
+other asset. One of the methods that can be used to determine the option price is the
+Black-Scholes model. This paper discusses derivation and illustration of the Black-
+Scholes model to determine the price of an exchange option. Furthermore, the
+illustration of the Black-Scholes model also discusses factors affecting the price of
+exchange option, such as the current price of the first stock, the current price of the
+second stock, the time to maturity, the volatility of the stock price, and the
+correlation between the first stock price and the second stock price. Based on the
+illustration, it can be concluded that the current price of the second stock, the time
+to maturity, and the volatility of stock price are directly proportional to the price of
+the exchange option, while the current price of the first stock and the correlation
+between the first stock price and the second stock price are inversely proportional
+to the price of the exchange option.","Black-Scholes model, exchange option, option price."
+"ANALISIS VOLATILITAS HARGA BERAS DAN FAKTOR
+YANG MEMENGARUHI PERUBAHAN HARGA BERAS DI
+INDONESIA PERIODE 2014-2020",2021,SOPI YATUN HASANAH,"Indonesia is one of the countries that is the third largest producer and
+consumer of rice in the world. This is in line with Indonesian people who mostly
+make rice as the main food ingredient. Rice is a food commodity that tends to be
+volatile. This study aims to analyze the volatility of rice prices in Indonesia for the
+2014-2020 period and analyze the factors that influence changes in rice prices in
+Indonesia for the 2014-2020 period. The method used in this study is the ARCH-
+GARCH model to determine the volatility of rice price and the VECM method to
+determine the factors that influence changes in Indonesia rice prices. The results
+show that Indonesia’s rice commodity is still volatile during the 2014-2020 period.
+The factors that significantly influence changes in the price of indonesian rice in the short term are the variables of the Indonesian rice price itself
+and inflation. Meanwhile, in the long term, variables that significantly affect
+changes in Indonesian rice prices are inflation, interest rates, world rice prices and
+exchange rates. The results of the IRF show that the shock of the factor variables
+to changes in Indonesian rice prices varies between periods. FEVD results for the
+next five years period all variables have a percentage contribution in influencing
+changes in Indonesian rice prices.","ARCH-GARCH, Indonesian Rice Prices, VECM, Volatility"
+"PENGARUH VARIABEL MAKROEKONOMI DAN PANDEMI
+COVID-19 TERHADAP HARGA SAHAM PERUSAHAAN
+AGRIBISNIS DI INDONESIA",2021,ELISA YEMIMA SIANTURI,"This study aims to determine the effect of macroeconomic factors and the
+COVID-19 pandemic on share prices of agribusiness companies in Indonesia, both
+upstream and downstream. Five macroeconomic variables (inflation, exchange rate,
+BI interest rate, world oil price, and palm oil price) were used as independent
+variables, the COVID-19 pandemic as a dummy variable and the share price of
+agribusiness companies as the dependent variable. The data used are secondary data
+from 2015 to 2020 and analyzed by ECM (Error Correction Model). The results
+shows that in the short term, only world oil prices and palm oil prices affect the
+stock price performance of upstream group companies, while in the downstream
+group, all variables including the COVID-19 pandemic doesn’t affect the
+company's stock price performance. In the long term, all variables including the
+COVID-19 pandemic affects the performance of the share price of companies in
+the upstream group, while for the downstream group, only inflation, exchange rates,
+world oil prices, crude oil prices, and the COVID-19 pandemic affects the
+performance of company share prices.","agribusiness, stock prices, macroeconomic variables, COVID-19,
+ECM."
+"DAMPAK EL NINO DAN LA NINA TERHADAP HARGA
+KUBIS DI INDONESIA",2021,RIZQI FITRIANA,"Climate change is a popular issue discussed in the world and has an impact
+on the environment and the economy of a region. One form of climate change that
+is happening in Indonesia is El Nino Southern Oscillation (ENSO) consisting of El
+Nino, Normal, and La Nina phases. ENSO results in rainfall fluctuations, thus
+affecting the agricultural sector, especially the vegetable horticulture sub-sector.
+This study examines the impact of El Nino and La Nina on cabbage prices using
+the static panel analysis method. The data used in the form of 15 provinces
+affected by the span of 2010 to 2018. The phenomenon of El Nino and La Nina is
+shown through rainfall indicators. The results obtained in the study are La Nina
+has a significant effect in increasing the price of cabbage, followed by other
+factors including the price of substitution (mustard green prices), productivity, and
+gross regional domestic product per capita","cabbage prices, El Nino, La Nina, static panels"
+"PENENTUAN HARGA OPSI EROPA MENGGUNAKAN
+METODE MONTE CARLO DAN
+METODE BEDA HINGGA",2021,ALOYSIUS MAVERICK SARIUN,"European option prices are generally calculated using the Black-Scholes
+model. This model can be used when the assumptions are fulfilled. In fact, options
+trading does not fulfill several assumptions so the Black-Scholes model cannot
+provide an analytical solution for option prices. This is the reason for the need of
+numerical methods to calculate European option prices. This study uses numerical
+methods such as the Monte Carlo method which calculates option prices by
+simulating stock prices and the finite difference method which performs
+discretization on partial differential equations. This paper examines the
+convergence for each method. Next, we examine the effect of several parameters
+on the option price using the finite difference method. The expiration time of the
+option and the option price has a different relationship for certain conditions and
+the volatility of the stock price is directly proportional to the option price.","European option, finite difference method, Monte Carlo method, option"
+"ANALISIS VOLATILITAS DAN FAKTOR-FAKTOR YANG
+MEMENGARUHI PERUBAHAN HARGA JAGUNG
+INDONESIA",2021,YOZI YUSANDRA,"Food is the main source of community needs. One of the food commodities
+that play an important role in realizing self-sufficiency and national food security
+is corn. The main problem with corn is the price volatility that has occurred over
+the last few years. The volatility that occurs causes the price of corn to
+experience uncertainty which can affect the demand and supply of corn in
+Indonesia. Therefore, it is necessary to know the main problems causing the
+volatility of corn prices that continue to occur in order to achieve self-sufficiency
+and food security. The analysis period in this study is from January 2013 to
+December 2020. The analytical method used in this study is the ARCH-GARCH
+model to see the level of fluctuations in corn prices. Furthermore, the VECM
+method is used to determine the factors that influence changes in Indonesian
+corn prices. The results of the analysis show that Indonesia's corn commodity isstill volatile during the period research. This indicates that price stability has not
+yet been achieved. Furthermore, using the VECM method shows that the world
+corn price factor in the short term has a significant effect on changes in
+Indonesian corn prices. Meanwhile, in the long term, factors that have a
+significant effect on changes in Indonesian corn prices are world corn prices,
+exchange rates, and inflation. The impact of factor variable shocks on changes in
+Indonesian corn prices varies between periods and begins to stabilize after the
+21st month. The variance contribution of each factor has a percentage that is
+able to influence changes in Indonesian corn prices in the long term, so that the
+volatility of Indonesian corn prices is influenced by the variables that have been
+studied.","ARCH-GARCH, Indonesian Corn Prices, VECM, Volatility."
+"PERAMALAN DAN VOLATILITAS
+HARGA DAGING AYAM RAS DI JAWA BARAT",2021,MILENIA IHSANTI SUWARNA,"West Java is a province with the highest number of broiler meat population and
+production in Indonesia. It makes West Java be the center of broiler meat
+production. The price of broiler meat fluctuates all the time. This condition
+troubling producers and consumers who want a price stability. Therefore, it is
+necessary to formulate a forecast model and volatility level of broiler meat price in
+West Java so producers and consumers can plan production and consumption of
+broiler meat and the government can use the information as a policy-making tool.
+The data used in the form of weekly price data and analyzed using EViews 9. The
+best model to forecast broiler meat price in West Java is SARIMA(1,1,1)(0,1,1)26.
+The price of broiler meat has uptrend and seasonal pattern. The best model to
+estimate the level of price volatility is ARCH(1) with a coefficient value is
+0,828514. The coefficient value that close to one indicates the existence of volatility
+is strong and the broiler meat price is very responsive to market dynamics. There
+are several things that can be done to minimize price fluctuations, such as improving
+and adding infrastructures, improving information and distribution systems reviewing corn and the number of brooders import policies, and providing cold
+storage.","arch garch, forecasting, price, sarima, volatility"
+"PENGARUH KUOTA EKSPOR TERHADAP HARGA KARET
+ALAM DOMESTIK INDONESIA",2021,ALFI NURDINA,"The Agreed Export Tonnage Scheme is a policy to limit natural rubber export
+quotas by 3 countries, namely Indonesia, Malaysia and Thailand. This policy aims
+to increase the price of natural rubber in the world. The policy also affects the
+monthly natural rubber prices at the farmers. Therefore, this study aims to analyze
+the effect of export Quotas policy on Indonesia's domestic natural rubber prices.
+The study uses monthly times series data from January 2013 to December 2019.
+The method used is the Error Correction Model to determine the variables that have
+a significant effect on the price of Indonesian natural rubber. The variable total
+exports of 3 countries with lag -3 has a negative and significant effect both in the
+long and short term on the domestic natural rubber price. Meanwhile, Dummy's
+export policy has no effect on domestic natural rubber prices. So can be concluded
+that the policies has effect of domestik natural rubber price but that policy needs to
+be improved. These improvements include supervision, continuous policy design
+and additional collaboration with other natural rubber producers.","ECM, natural rubber, domestik price, AETS"
+"ANALISIS VOLATILITAS HARGA CABAI BESAR DAN
+CABAI RAWIT DI INDONESIA",2021,,"The chili commodity in Indonesian market is known in various types,
+including large chilies consisting of red chilies and curly chilies and cayenne pepper
+consisting of green cayenne pepper and red cayenne pepper. The demand for large
+chilies and cayenne pepper is inelastic, so the price tends to be volatile. The volatile
+price pattern causes the chili commodity to be included in the volatile food category.
+This study is to determine the differences in both the price patterns of large chili
+and cayenne pepper and the volatility of the two chili prices. The method that used
+are ARIMA and ARCH-GARCH models. The results showed that the volatility that
+occurred in these two commodities tended to be low and the price of cayenne pepper
+had higher volatility with an ARCH coefficient of 0.833003 compared to the price
+of large chili which had an ARCH coefficient of 0.479061. The prices of large
+chilies and cayenne pepper are highly volatile on the November to February. The
+high volatility was caused by extreme weather so that chili production decreased
+while demand increased.","ARCH-GARCH, ARIMA, cayenne pepper, large chili, volatility"
+"PENGARUH DEBT TO EQUITY RATIO DAN
+PRICE TO BOOK VALUE TERHADAP HARGA SAHAM",2021,FELICIA SUGIARTO,"The effect of a company’s financial statements on its stock prices is not
+always the same, so it becomes a problem for investors to find out which stocks are
+worth buying. This study aims to determine and explain the effect of Debt to Equity
+Ratio (DER) and Price to Book Value (PBV) either simultaneously or partially on
+stock prices. The data used are stock prices of six cement companies that have been
+listed as issuers on the Indonesia Stock Exchange (IDX) for the period 2016 to 2018
+and issue financial reports regularly every year. There are two independent
+variables used in this study, namely Debt to Equity Ratio and Price to Book Value,
+while the dependent variable used in this study is stock price. This research uses
+multiple linear regression analysis model. The results showed that the Debt to
+Equity Ratio and Price to Book Value variables had a significant negative effect
+on stock prices. It means if DER and PBV are higher, then the stock price will be
+lower.","debt to equity ratio, stock price, price to book value"
+"
+ANALISIS STABILITAS HARGA PANGAN KOMODITAS
+HASIL PETERNAKAN SEBELUM DAN SAAT PANDEMI
+COVID-19 (PERIODE TAHUN 2019-2020)",2021,RODI JAKARIYA,"The Covid-19 pandemic has caused food price to fluctuate greatly. High
+price fluctuation could effect uncertainty of public food consumption and
+could affect the quality of human resources in the future. This study aims to
+analyze the fluctuations and impact of food regulation on livestock
+commodities before and during the Covid-19 pandemic. The analysis method
+used to measure food price fluctuation is the coefficient of variation, while
+convergence and the impact of regulatory used dynamic and static panel data.
+The result showed that food price fluctuation for chicken is higher than beef
+and eggs both before and during the Covid-19 pandemic. The price of
+chicken and eggs will be converge at a slow pace. The implementation of the
+latest price regulation will cause the price of eggs to rise and more fluctuate,
+but the price of chicken will decrease. Based on the research results, there is
+still required to do re-assessment of reference price during the Covid-19
+Pandemic","dynamic panel data, price stability, convergences, animal protein"
+"HEDGING (LINDUNG NILAI) HARGA KAKAO
+MENGGUNAKAN STRATEGI OPSI",2021,OLIVIA FADHILAH PUTRI,"The unpredictable price of cocoa can be a risk for cocoa processing
+producers. Hedging can be a solution to reduce future losses. In this study, three
+option strategies were applied to cocoa prices, namely strap, long strangle, and
+short put ladder. Based on the calculation results, the strap is more profitable in
+bullish conditions, long strangle in neutral conditions, and short put ladder in
+bearish conditions. In the strap and long strangle strategy, the maximum profit is
+infinity with the maximum loss is the initial cost. In the short put ladder strategy,
+the maximum profit is the sum of strike price that has been adjusted for the option
+cost, while the maximum loss is the sum of higher strike price that has been
+adjusted for the option cost. When the option is exercised, the final hedging
+selling price is the sum of the strike price that has been adjusted for the option
+cost. When the option is not exercised, the final hedging selling price will increase
+as the spot price increases.","cocoa, long strangle, option, short put ladder, strap"
+"FAKTOR PENENTU PERMINTAAN IMPOR BAWANG
+PUTIH INDONESIA",2021,NIDIA IRANANDA SIMANJUNTAK,"Indonesia continues to be the world's leading garlic importer. The goal of
+this study is to look at the factors that influence demand for Indonesian garlic
+imports. The information used is time series data from 1996 to 2019. With the
+import price of garlic, the domestic price of garlic, gross domestic product,
+national garlic consumption, domestic garlic production, and the exchange rate,
+the demand for garlic imports is evaluated using a double logarithm model. The
+exchange rate of the rupiah against the US dollar is used as an explanatory
+variable. Garlic imports in Indonesia are increasing at a rate of 19.2 percent per
+year on average. Variations in consumption have the greatest impact on
+Indonesian garlic import demand, followed by changes in import pricing. Changes
+in domestic prices and production have little effect on demand for Indonesian
+garlic imports. The consequence is that demand for imported garlic will continue
+to rise in lockstep with consumer demand. If there is no major increase in
+production, garlic imports will continue to rise.","Garlic, Double log model, Import demand ."
+"ANALISIS KELAYAKAN FINANSIAL USAHATANI
+TUMPANGSARI NANAS DAN TALAS DI DESA SUKAHARJA,
+KECAMATAN CIJERUK, KABUPATEN BOGOR, JAWA BARAT",2021,PETER LOUIS MARTUA SIRAIT,"Pineapple is a leading horticultural commodity in Bogor Regency. The largest
+pineapple commodity production center in Sukaharja Village is Cijeruk District.
+Farmers in Sukaharja Village do not only plant pineapples, but taro which is used
+as a companion plant in farming activities. Pineapple farmers in Sukaharja Village
+choose taro as a polyculture crop to increase farmers' income while waiting for
+pineapples to harvest. Preparation in carrying out farming activities must be
+carried out sequentially from the land preparation process such as preparation of
+fertilizers, tools, and labor, until the final process of farming activities is
+harvesting. The objectives of this study were: (1) to analyze the feasibility ofpineapple and taro intercropping based on market aspects, technical aspects,
+management aspects, social and economic aspects, and environmental aspects; (2)
+analyzing the financial feasibility of pineapple and taro intercropping; and (3) to
+analyze the effect of changes in input and output prices on pineapple and taro
+farming. The analytical methods used are Net Present Value (NPV), Net Benefit
+Cost Ratio (Net B/C), Gross B/C, Internal Rate of Return (IRR), Payback Period
+(PP) and Sensitivity Analysis. The results of intercropping pineapple and taro
+farming activities were declared feasible in farming activities. The aspects that
+support pineapple and taro intercropping farming activities are going well. Price
+changes in pineapple and taro intercropping farming activities, both input prices
+and output prices have different calculation results. As a result of these price
+changes, it shows that pineapple and taro intercropping farming activities have
+two results, namely feasible and not feasible in farming activities.","horticulture, Internal Rate of Return, Net Present Value, polyculture,
+sensitivity"
+"PEMODELAN HARGA KOMODITI KOPI ARABIKA MENGGUNAKAN
+PENDEKATAN MODEL ARIMA-GARCH ASIMETRIS",2021,MUHAMMAD INSAN RABBANI,"Agricultural commodities are currently attractive assets to be used as the
+underlying asset of a derivative product. One of the agricultural commodities that
+are currently popular is the arabica coffee commodity. This commodity has high
+volatility. Due to the high volatility, this study aims to model the price of the coffee
+commodity to minimize losses or maximize profits. High volatility makes modeling
+with the Autoregressive Integrated Moving Average (ARIMA) is not enough. The
+Generalized Autoregressive Conditional Heteroscedasticity (GARCH) model can
+solve heteroscedasticity problems but still has weaknesses in understanding the
+phenomena of good and bad news. Therefore an asymmetric GARCH model is
+required. The asymmetric GARCH model used in this study is the Exponential
+GARCH model. The model obtained in this study is ARIMA(0,1,0)-EGARCH(2,3)
+with a MAPE of 2.54%.","ARIMA, EGARCH, modeling"
+"PERUBAHAN HARGA PANGAN POKOK DAN KEMUNGKINAN
+SUBTITUSI SUMBER KARBOHIDRAT UTAMA PADA
+MASYARAKAT PERKOTAAN DAN PERDESAAN DI INDONESIA",2021,NISSA ARRASYIDI,"Indonesian people have a high dependence on rice, which is one of the
+primary food sources. The high dependency rate causes the demand for rice increase
+as the government must import rice to avoid rice shortage. The government carried
+out a program to diversify the carbohydrate sources to reduce the dependency of
+communities on rice. It also purposes to optimize the utilization of carbohydrate
+sources other than rice. This study aims to determine the effect of staple food prices
+on the possibility of diversification of the carbohydrate sources in urban and rural
+areas using panel data analysis method with Fixed Effect Model (FEM). The results
+showed that cassava tends to be more suitable as a substitute commodity for rice.
+Diversification of the carbohydrate sources is easier to do in rural areas compared
+to urban areas.","food, rice, cassava, diversification, substitution, cross elasticity and
+FEM"
+"FAKTOR-FAKTOR YANG MEMENGARUHI NILAI
+EKSPOR KARET ALAM INDONESIA
+DI NEGARA TUJUAN UTAMA",2021,NADIRA INDRIANA PUTRI,"Natural rubber is one of the leading export commodities of Indonesia which
+makes Indonesia becomes the second largest producer and exporter in the world.
+Five destination countries for Indonesian natural rubber exports are among the
+largest natural rubber consumers countries in the world, such as China, Japan,
+Korea, India, and the United Stated of America. Unfortunately In recent years, there
+has been a significant decline in export value of Indonesian natural rubber. This
+study aims to analyze the factors affecting Indonesian natural rubber export value
+in Destination Countries. by using panel data regression analysis with fixed effect
+model through the gravity model approach in the period of 1995 to 2019 from five
+main importing countries. The commodity object of the research which HS code is
+4001 is Natural rubber, balata, gutta-percha, guayule, chicle and similar natural
+gums, in primary forms or in plates, sheets or strip. The estimation result shows the
+factors that significantly affect the export value of Indonesia natural rubber in
+destination countries are production natural rubber of Indonesian, world natural
+rubber prices, export price of natural rubber Indonesia, and world crude oil prices.","export value, fixed effect model, gravity model, natural rubber, panel
+data"
+"ANALISIS KELAYAKAN USAHA PALET KAYU DI PT DAMAI
+RESTU ABADI, KECAMATAN LIMO, KOTA DEPOK,
+JAWA BARAT",2021,ABDUL MANAN,"The need of the packages as a product’s protector in industrial activities is
+very high. One of the packages that are commonly and widely used in industrial
+activities is the wood-based pallet. See the potential that exists, PT. Damai Restu
+Abadi conducts the business of wooden pallet for export and local needs. The
+company has high demand but has not been able to meet all the requests. This is
+due to the company’s production capacity that has not been able to meet the
+demand. Then the company makes additional capital to increase the scale of the
+business so that the company needs to conduct a business feasibility study. The
+purpose of this study is to analyze business feasibility based on non-financial and
+financial aspects, and sensitivity analysis. Based on the results of analysis of non-
+financial and financial aspects, the business is feasible to run. Sensitivity analysis
+are carried out with two component changes: the decrease in the sales of wooden
+pallets and the increase in the price of wood raw materials. The results shows that
+the business is more sensitive toward the decrease in the sales of wooden pallets
+than the increase in the price of wood raw materials.","business feasibility, sensitivity analysis, wooden pallet"

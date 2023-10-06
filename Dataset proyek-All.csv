@@ -1,0 +1,966 @@
+Judul ,Tahun,Nama Penulis ,Abstrak,Keywords
+"TRANSMISI HARGA BERAS DI INDONESIA
+PADA MASA PANDEMI COVID-19",2022,SYARIFA ASRIN,"The pandemic covid-19 has impacted global economy including Indonesia. In response to dealing with the spread of Covid-19 cases, Indonesian government has imposed social restrictions which directly impacts people’s economic activities including food sector. This study aims to analyze the transmission of rice prices from the producer level to the consumer level during the covid-19 pandemic. Price transmission describes the impact of changes in the price of an item at one market level on changes in the price of the item at another market level. The data used is daily time series data from March 2020 to March 2021. The data is analyzed using the Vector Autoregressive (VAR) approach. The VAR estimation results show that producer prices and consumer prices do not affect each other. The absence of price transmission between producers and consumers may indicate that government intervention to maintain rice prices during the Covid-19 pandemic has been effective.","covid-19, price transmission, rice, VAR"
+"TRANSMISI HARGA KARET ALAM DI PASAR SINGAPURA
+DENGAN PASAR PRODUSEN DI SUMATERA SELATAN",2022,ALMER TARUNA ARKANANDA,"The dynamic and rapid change in natural rubber prices at the producer level has made the price reference essential to help South Sumatra’s farmers develop their strategy in production management. Therefore, this study aims to prove the Singapore natural rubber market price as a reference. The monthly basis of secondary time series data from 2010-2020 was employed through the VECM methodological approach to prove abovementioned. The results showed that the price of natural rubber in the Singapore market affected the price of natural rubber in South Sumatra. Meanwhile, natural rubber price movement in the South Sumatra market did not affect the natural rubber price movement in the Singapore market. Based on the IRF analysis disclosed a price shock response phenomenon of this commodity in South Sumatra, which was influenced by the Singaporean market but would stable again after the seventh month.","natural rubber, price transmission, VECM method"
+ANALISIS VOLATILITAS HARGA KEDELAI DI INDONESIA,2022,ADELIA MARGARETA,"Soybean is the main food commodity besides rice and corn which functions as a source of vegetable protein for the Indonesian people. Fluctuations in price variance will cause price volatility and have an impact on the food processing industry, one of which is the tofu and tempeh industry, which is a small industry with limited capital.. Therefore, it is necessary to anticipate the stability of soybean prices the government to minimize risks and uncertainties that will harm both soybean producers and consumers. This study aims to analyze the volatility of soybean prices, both local consumer and producer level soybeans and imported soybeans, as well as tofu and tempeh prices in Indonesia. The study uses monthly time series data from January 2010 to December 2021. The method used is ARCHGARCH to calculate the volatility of soybean price variables, both local soybeans at consumer and producer levels and imported soybeans, as well as prices of tofu and tempeh in Indonesia. The results showed that local soybean consumer prices were more volatile than imported soybean prices. Soybean prices at the producer level and tempeh prices show a low level of volatility, while tofu prices show a high level of volatility which will have a major influence on market dynamics.","ARCH-GARCH model, Indonesian soybean price, Volatility"
+"PENGARUH PANDEMI COVID-19 TERHADAP HARGA
+BERAS PROVINSI DI PULAU JAWA",2022,"RISKA TRI SUSANTI","The Covid-19 pandemic first appeared in the city of Wuhan and entered Indonesia in early 2020 and spread very rapidly, especially on the island of Java. The Covid19 pandemic has resulted in a decrease in Gross Domestic Product in several sectors in Indonesia, but data from BPS states that GDP growth in the agricultural sector from 2020 to 2021 grows consistently and positively. Growth in the agricultural sector occurred in several agricultural sub-sectors including rice food crops. Rice is a strategic food commodity of its availability to protect national security and to maintaining stability in Indonesia. This study aims to estimate the level of fluctuations in provincial rice prices in Java before and during the Covid-19 pandemic and the factors that affect provincial rice prices in Java in 201fromto 2021 using the panel data method. The results showed that rice price fluctuations in Java Island Province reached its peak at there beginning of the Covid-19 pandemic in the first quarter of 2020, but the next in quarter the fluctuations were lower due to a decline in public demand and purchasing power and the government's price stabilization policy. Rice prices in Java Island Province are influenced by international rice prices, per capita consumption, Government Purchase Prices, and Covid-19, while rice production has no effect on provincial rice prices in Java. In addition, in the short and long term, every increase in international rice prices, per capita consumption, HPP, and cases of Covid-19 will increase the price of rice while every increase in rice production will reduce the price of provincial rice in Java. Suggestions for government policy are the need for stabilizing rice prices by increasing rice production."," Covid-19, fluctuation, Java Island, panel data, provincial rice prices"
+"MODEL PREDIKSI HARGA KOMODITAS CABAI MERAH
+BESAR DAN KERITING DENGAN METODE LONG SHORT
+TERM MEMORY",2022,RIZKY ABDULLAH FALAH,"Data from the Central Statistics Agency indicates the high level of production and consumption of red chili per capita in several provinces in Indonesia. Based on the monitoring of the Strategic Food Price Information Center from May 2018 to May 2021 the price of red chili fluctuated in 34 provinces, one of which was West Java province. The quantity of chili supply and the amount of demand imbalance needed by consumers causes price fluctuated. This study aims to build a predictive modeling of the price of large and curly red chilies in West Java Province using the Long Short Term Memory method. The red chili price prediction model using LSTM has been successfully formed and is considered representative enough to predict prices in traditional markets and modern markets in West Java Province. The best prediction model for the price of large and curly red chilies in traditional markets obtained the smallest RMSE values on the test data of 2.57% and 2.07%, respectively. Meanwhile, the best price prediction model in the modern market obtained the smallest RMSE values on the test data of 2.11% and 2.17%, respectively. Based on the RMSE value obtained, the model is better than the previous research method and shows that the variation in the value produced by a model is close to the variation in the actual value.","long short term memory, prediction model, price fluctuation, red chili"
+"TRANSMISI HARGA BAWANG MERAH PADA SAAT
+PANDEMI COVID-19",2022,NONA MAGDALENA,"Shallots are one of the important vegetable commodities for the people of Indonesia because of their function as the main cooking spice so that the demand for shallots tends to increase. During the Covid-19 pandemic, the price of shallots increased. The increase in the price of shallots is thought to be due to an abnormal distribution (the existence of Large-Scale Social Restrictions/PSBB) and the delayed planting season since 2019. This study aims to analyze the transmission of shallot prices at the producer and consumer levels during the Covid-19 pandemic. The data used is daily time series data from March 2020 to March 2021. The analysis uses the Vector Error Correction Model (VECM) approach. The results of the VECM estimation show that the price of shallots at the producer and consumer levels in the long run experiences one-way price transmission, where price changes that occur in consumers affect prices to producers. In the short term there is no price transmission. The existence of one-way price transmission in the long term and the absence of short-term price transmission between producers and consumers may indicate that shallot marketing institutions in Indonesia are inefficient during the Covid-19 pandemic.","Covid-19 Pandemic, Price Transmission, Shallots, VECM"
+"ANALISIS FAKTOR-FAKTOR YANG MEMENGARUHI
+HARGA DAGING SAPI DI JAWA BARAT",2022,PUTU KANIA RAIHAN,"Beef is one of the most important commodities for the society. Beef consumption rate in West Java is above the national average consumption level, yet the beef prices in West Java still experiencing fluctuations until now. The condition of unstable price could give a negative impact to the economy actors. The purpose of this study is to analyze what factors affect the beef prices in West Java. The data for this study were secondary time series data from 2003 to 2020. Error Correction Model (ECM) method is used in this study. The result of this study showed, in the long term the price of chicken meat and international beef price had a positive and significant effect on the beef price in West Java, and in the short term the population of beef cattle had a negative and significant effect on the beef price in West Java.","beef, ECM, price fluctuations, price "
+"ANALISIS VOLATILITAS HARGA PANGAN
+KOMODITAS HORTIKULTURA SEBELUM DAN
+SAAT PANDEMI COVID-19",2022,CAHAYA MALEM ULINA SEMBIRING,"Horticultural commodities such as shallots, red chilies, and cayenne peppers experienced highly fluctuating prices during 2019 – 2021. Demand for these commodities has an inelastic nature so prices tend to be volatile. This study aims to analyze the price volatility of shallots, red chilies, and cayenne peppers and analyze the influencing factors during the 2019-2020 period. The method used is coefficient of variation (CV) analysis, ARCH-GARCH, and VECM. The results of the research using CV analysis showed that the fluctuations of the three commodities were still within reasonable limits. Factors that affect changes in Indonesian shallot prices in the short term are only domestic shallot prices, while in the long term the factors influencing changes in Indonesian shallot prices are exchange rates, interest rates, and inflation. For red chili, the only influencing factor in the short term is inflation, while in the long term the factors that influence changes in the price of red chili are inflation, interest rates, and exchange rates. The results of the IRF show that the shock of the factor variables to changes in the prices of Indonesian shallots and red chilies varies between periods. The results of the FEVD for the next five years show that all variables have a contribution percentage in influencing changes in the prices of Indonesian shallots and red chilies.","ARCH-GARCH, Cayenne Pepper, Onion, Red Chili, Volatility"
+"PENGARUH HARGA CABAI RAWIT DAN DETERMINAN
+LAINNYA TERHADAP SPILLOVER EFFECT INFLASI
+REGIONAL SEBELUM DAN SAAT PANDEMI COVID-19",2022,"LUFITA AYUWANDINI","The Covid-19 pandemic has caused shocks to macroeconomic indicators, namely inflation. The Covid-19 pandemic caused a high trade shock in horticultural crops, 8.16 percent. Cayenne pepper as a horticultural commodity with high price fluctuations is evidenced by the coefficient of variance, 66.91 percent. Fluctuations in the price of cayenne pepper affect inflation. Inflation control is needed to maintain economic stability. This study aims to determine the determinants of regional inflation from the monetary side, namely credit rate and MSME loans. Non-monetary side, cayenne pepper price, the provincial minimum wage, infrastructure and the Covid-19 pandemic on regional inflation. This study also aims to analyze the effect of spatial interaction on the spillover effect of regional inflation. This study uses data from 34 provinces in Indonesia for 2018-2021 and is analyzed using the spatial panel method with the best model Spatial Autoregressive. The results showed that cayenne pepper price and the provincial minimum wage positively affected regional inflation. Credit rates, MSME loans, and the Covid-19 pandemic negatively affected regional inflation. The results also show that spatial interaction between neighbouring provinces affects a region's regional inflation rate which causes a spillover effect of regional inflation.","Cayenne Pepper Prices, Covid-19, Inflation, Spatial Panel, Spillover Effect"
+"PENGARUH HARGA BERAS DAN DETERMINAN LAIN
+TERHADAP SPILLOVER EFFECT INFLASI ANTAR
+IBU KOTA PROVINSI DI INDONESIA",2022,HANIFATUR RODHI’AH,"The Covid-19 pandemic has an impact on changes in the balance of aggregate demand and supply for strategic food commodities, causing price fluctuations that affect the inflation rate which is the stability of the country's economy. This study aims to see the effect of the spatial interaction of rice prices and other determinations such as the provincial minimum wage, loan interest rates, MSME loans and the Covid-19 pandemic on inflation in 34 provincial capital cities in Indonesia. In addition, this study also analyzes the correlation between the spillover effects of inflation among 34 provincial capital cities in Indonesia. This study uses spatial panel analysis with the research year 2018-2021. The results showed that there was a positive spatial interaction and a significant correlation between the spillover effect of inflation. Based on the estimated rice price (significantly positive), the provincial minimum wage (significantly negative), loan interest rates (significantly negative), MSME credit (significantly negative) and the external factors of the Covid-19 pandemic (significantly negative), on spatial interactions and spillover linkages of influence inflation in 34 provincial capital cities in Indonesia."," inflation, rice prices, SAR, spatial panels, spillover effect"
+"PENENTUAN HARGA OPSI EXCHANGE DENGAN
+MENGGUNAKAN MODEL BLACK-SCHOLES",2021,ISNA NUR FAJRIAH,"Exchange option is an option to exchange one asset for another at maturity.
+This option is simultaneously a call option on one asset and a put option on the
+other asset. One of the methods that can be used to determine the option price is the
+Black-Scholes model. This paper discusses derivation and illustration of the Black-
+Scholes model to determine the price of an exchange option. Furthermore, the
+illustration of the Black-Scholes model also discusses factors affecting the price of
+exchange option, such as the current price of the first stock, the current price of the
+second stock, the time to maturity, the volatility of the stock price, and the
+correlation between the first stock price and the second stock price. Based on the
+illustration, it can be concluded that the current price of the second stock, the time
+to maturity, and the volatility of stock price are directly proportional to the price of
+the exchange option, while the current price of the first stock and the correlation
+between the first stock price and the second stock price are inversely proportional
+to the price of the exchange option.","Black-Scholes model, exchange option, option price."
+"ANALISIS VOLATILITAS HARGA BERAS DAN FAKTOR
+YANG MEMENGARUHI PERUBAHAN HARGA BERAS DI
+INDONESIA PERIODE 2014-2020",2021,SOPI YATUN HASANAH,"Indonesia is one of the countries that is the third largest producer and
+consumer of rice in the world. This is in line with Indonesian people who mostly
+make rice as the main food ingredient. Rice is a food commodity that tends to be
+volatile. This study aims to analyze the volatility of rice prices in Indonesia for the
+2014-2020 period and analyze the factors that influence changes in rice prices in
+Indonesia for the 2014-2020 period. The method used in this study is the ARCH-
+GARCH model to determine the volatility of rice price and the VECM method to
+determine the factors that influence changes in Indonesia rice prices. The results
+show that Indonesia’s rice commodity is still volatile during the 2014-2020 period.
+The factors that significantly influence changes in the price of indonesian rice in the short term are the variables of the Indonesian rice price itself
+and inflation. Meanwhile, in the long term, variables that significantly affect
+changes in Indonesian rice prices are inflation, interest rates, world rice prices and
+exchange rates. The results of the IRF show that the shock of the factor variables
+to changes in Indonesian rice prices varies between periods. FEVD results for the
+next five years period all variables have a percentage contribution in influencing
+changes in Indonesian rice prices.","ARCH-GARCH, Indonesian Rice Prices, VECM, Volatility"
+"PENGARUH VARIABEL MAKROEKONOMI DAN PANDEMI
+COVID-19 TERHADAP HARGA SAHAM PERUSAHAAN
+AGRIBISNIS DI INDONESIA",2021,ELISA YEMIMA SIANTURI,"This study aims to determine the effect of macroeconomic factors and the
+COVID-19 pandemic on share prices of agribusiness companies in Indonesia, both
+upstream and downstream. Five macroeconomic variables (inflation, exchange rate,
+BI interest rate, world oil price, and palm oil price) were used as independent
+variables, the COVID-19 pandemic as a dummy variable and the share price of
+agribusiness companies as the dependent variable. The data used are secondary data
+from 2015 to 2020 and analyzed by ECM (Error Correction Model). The results
+shows that in the short term, only world oil prices and palm oil prices affect the
+stock price performance of upstream group companies, while in the downstream
+group, all variables including the COVID-19 pandemic doesn’t affect the
+company's stock price performance. In the long term, all variables including the
+COVID-19 pandemic affects the performance of the share price of companies in
+the upstream group, while for the downstream group, only inflation, exchange rates,
+world oil prices, crude oil prices, and the COVID-19 pandemic affects the
+performance of company share prices.","agribusiness, stock prices, macroeconomic variables, COVID-19,
+ECM."
+"DAMPAK EL NINO DAN LA NINA TERHADAP HARGA
+KUBIS DI INDONESIA",2021,RIZQI FITRIANA,"Climate change is a popular issue discussed in the world and has an impact
+on the environment and the economy of a region. One form of climate change that
+is happening in Indonesia is El Nino Southern Oscillation (ENSO) consisting of El
+Nino, Normal, and La Nina phases. ENSO results in rainfall fluctuations, thus
+affecting the agricultural sector, especially the vegetable horticulture sub-sector.
+This study examines the impact of El Nino and La Nina on cabbage prices using
+the static panel analysis method. The data used in the form of 15 provinces
+affected by the span of 2010 to 2018. The phenomenon of El Nino and La Nina is
+shown through rainfall indicators. The results obtained in the study are La Nina
+has a significant effect in increasing the price of cabbage, followed by other
+factors including the price of substitution (mustard green prices), productivity, and
+gross regional domestic product per capita","cabbage prices, El Nino, La Nina, static panels"
+"PENENTUAN HARGA OPSI EROPA MENGGUNAKAN
+METODE MONTE CARLO DAN
+METODE BEDA HINGGA",2021,ALOYSIUS MAVERICK SARIUN,"European option prices are generally calculated using the Black-Scholes
+model. This model can be used when the assumptions are fulfilled. In fact, options
+trading does not fulfill several assumptions so the Black-Scholes model cannot
+provide an analytical solution for option prices. This is the reason for the need of
+numerical methods to calculate European option prices. This study uses numerical
+methods such as the Monte Carlo method which calculates option prices by
+simulating stock prices and the finite difference method which performs
+discretization on partial differential equations. This paper examines the
+convergence for each method. Next, we examine the effect of several parameters
+on the option price using the finite difference method. The expiration time of the
+option and the option price has a different relationship for certain conditions and
+the volatility of the stock price is directly proportional to the option price.","European option, finite difference method, Monte Carlo method, option"
+"ANALISIS VOLATILITAS DAN FAKTOR-FAKTOR YANG
+MEMENGARUHI PERUBAHAN HARGA JAGUNG
+INDONESIA",2021,YOZI YUSANDRA,"Food is the main source of community needs. One of the food commodities
+that play an important role in realizing self-sufficiency and national food security
+is corn. The main problem with corn is the price volatility that has occurred over
+the last few years. The volatility that occurs causes the price of corn to
+experience uncertainty which can affect the demand and supply of corn in
+Indonesia. Therefore, it is necessary to know the main problems causing the
+volatility of corn prices that continue to occur in order to achieve self-sufficiency
+and food security. The analysis period in this study is from January 2013 to
+December 2020. The analytical method used in this study is the ARCH-GARCH
+model to see the level of fluctuations in corn prices. Furthermore, the VECM
+method is used to determine the factors that influence changes in Indonesian
+corn prices. The results of the analysis show that Indonesia's corn commodity isstill volatile during the period research. This indicates that price stability has not
+yet been achieved. Furthermore, using the VECM method shows that the world
+corn price factor in the short term has a significant effect on changes in
+Indonesian corn prices. Meanwhile, in the long term, factors that have a
+significant effect on changes in Indonesian corn prices are world corn prices,
+exchange rates, and inflation. The impact of factor variable shocks on changes in
+Indonesian corn prices varies between periods and begins to stabilize after the
+21st month. The variance contribution of each factor has a percentage that is
+able to influence changes in Indonesian corn prices in the long term, so that the
+volatility of Indonesian corn prices is influenced by the variables that have been
+studied.","ARCH-GARCH, Indonesian Corn Prices, VECM, Volatility."
+"PERAMALAN DAN VOLATILITAS
+HARGA DAGING AYAM RAS DI JAWA BARAT",2021,MILENIA IHSANTI SUWARNA,"West Java is a province with the highest number of broiler meat population and
+production in Indonesia. It makes West Java be the center of broiler meat
+production. The price of broiler meat fluctuates all the time. This condition
+troubling producers and consumers who want a price stability. Therefore, it is
+necessary to formulate a forecast model and volatility level of broiler meat price in
+West Java so producers and consumers can plan production and consumption of
+broiler meat and the government can use the information as a policy-making tool.
+The data used in the form of weekly price data and analyzed using EViews 9. The
+best model to forecast broiler meat price in West Java is SARIMA(1,1,1)(0,1,1)26.
+The price of broiler meat has uptrend and seasonal pattern. The best model to
+estimate the level of price volatility is ARCH(1) with a coefficient value is
+0,828514. The coefficient value that close to one indicates the existence of volatility
+is strong and the broiler meat price is very responsive to market dynamics. There
+are several things that can be done to minimize price fluctuations, such as improving
+and adding infrastructures, improving information and distribution systems reviewing corn and the number of brooders import policies, and providing cold
+storage.","arch garch, forecasting, price, sarima, volatility"
+"PENGARUH KUOTA EKSPOR TERHADAP HARGA KARET
+ALAM DOMESTIK INDONESIA",2021,ALFI NURDINA,"The Agreed Export Tonnage Scheme is a policy to limit natural rubber export
+quotas by 3 countries, namely Indonesia, Malaysia and Thailand. This policy aims
+to increase the price of natural rubber in the world. The policy also affects the
+monthly natural rubber prices at the farmers. Therefore, this study aims to analyze
+the effect of export Quotas policy on Indonesia's domestic natural rubber prices.
+The study uses monthly times series data from January 2013 to December 2019.
+The method used is the Error Correction Model to determine the variables that have
+a significant effect on the price of Indonesian natural rubber. The variable total
+exports of 3 countries with lag -3 has a negative and significant effect both in the
+long and short term on the domestic natural rubber price. Meanwhile, Dummy's
+export policy has no effect on domestic natural rubber prices. So can be concluded
+that the policies has effect of domestik natural rubber price but that policy needs to
+be improved. These improvements include supervision, continuous policy design
+and additional collaboration with other natural rubber producers.","ECM, natural rubber, domestik price, AETS"
+"ANALISIS VOLATILITAS HARGA CABAI BESAR DAN
+CABAI RAWIT DI INDONESIA",2021,"ANALISIS VOLATILITAS HARGA CABAI BESAR DAN
+CABAI RAWIT DI INDONESIA
+SAVIRA NADYA RAHMADANI","The chili commodity in Indonesian market is known in various types,
+including large chilies consisting of red chilies and curly chilies and cayenne pepper
+consisting of green cayenne pepper and red cayenne pepper. The demand for large
+chilies and cayenne pepper is inelastic, so the price tends to be volatile. The volatile
+price pattern causes the chili commodity to be included in the volatile food category.
+This study is to determine the differences in both the price patterns of large chili
+and cayenne pepper and the volatility of the two chili prices. The method that used
+are ARIMA and ARCH-GARCH models. The results showed that the volatility that
+occurred in these two commodities tended to be low and the price of cayenne pepper
+had higher volatility with an ARCH coefficient of 0.833003 compared to the price
+of large chili which had an ARCH coefficient of 0.479061. The prices of large
+chilies and cayenne pepper are highly volatile on the November to February. The
+high volatility was caused by extreme weather so that chili production decreased
+while demand increased.","ARCH-GARCH, ARIMA, cayenne pepper, large chili, volatility"
+"PENGARUH DEBT TO EQUITY RATIO DAN
+PRICE TO BOOK VALUE TERHADAP HARGA SAHAM",2021,FELICIA SUGIARTO,"The effect of a company’s financial statements on its stock prices is not
+always the same, so it becomes a problem for investors to find out which stocks are
+worth buying. This study aims to determine and explain the effect of Debt to Equity
+Ratio (DER) and Price to Book Value (PBV) either simultaneously or partially on
+stock prices. The data used are stock prices of six cement companies that have been
+listed as issuers on the Indonesia Stock Exchange (IDX) for the period 2016 to 2018
+and issue financial reports regularly every year. There are two independent
+variables used in this study, namely Debt to Equity Ratio and Price to Book Value,
+while the dependent variable used in this study is stock price. This research uses
+multiple linear regression analysis model. The results showed that the Debt to
+Equity Ratio and Price to Book Value variables had a significant negative effect
+on stock prices. It means if DER and PBV are higher, then the stock price will be
+lower.","debt to equity ratio, stock price, price to book value"
+"PERAMALAN HARGA KOMODITAS CABAI BESAR DI
+PULAU JAWA DENGAN MODEL SPACE TIME TRANSFER
+FUNCTION",2020,ANGGITA NURUL ANNISA,"Time series analysis is a statistical method commonly used for forecasting.
+In addition to the time element, forecasting also needs to pay attention to the
+influence of explanatory variables and spatial elements, so that the forecasting is
+done can provide more accurate results. One time series analysis method that
+considers the effect of explanatory variables and spatial elements is the Space Time
+Transfer Function (STTF). Data that can be analyzed using the STTF model are
+time series data that have spatial influence. The data used in this study are large
+chili commodity price data and average rainfall data in each province in Java from
+January 2017 to December 2019. The purpose of this study is to determine the effect
+of average rainfall and spatial influence on the prices of large chili commodities
+from time to time. The results of this study are the price of large chili commodities
+in a particular month influenced by the average rainfall in the previous 3 months
+until that month. The price of large chili commodities in one province is also
+influenced by prices in other provinces directly adjacent to the province. These
+happens because there is a large chili commodity distribution in each province.","forecasting, large chili commodity prices, space time transfer function,
+time series analysis."
+"DAMPAK PERUBAHAN IKLIM TERHADAP HARGA
+KOMODITAS KOPI DI DAERAH TERDAMPAK FENOMENA EL NINO
+DAN LA NINA",2020,NABILA SADELINA,"Natural phenomena such as prolonged drought, increased rainfall, fires and
+floods that occurred in Indonesia, currently have a wide impact on all aspects of
+human life. This is caused by climate change which has a significant impact. The
+impact of climate change is an increase in extreme climate. Climate change makes
+striking temperature anomalies such as the El Nino and La Nina phenomena or
+commonly referred to as the ENSO (El Nino Southern Oscillation) phenomenon.
+The ENSO phenomenon causes fluctuations in rainfall, thus affecting the
+agricultural sector, especially the plantation subsector. This study examines the
+impact of climate change on coffee prices using the static data panel method. The
+data used in this study in the form of 12 provinces affected from 2010 to 2017.
+The ENSO phenomenon is shown through rainfall indicators. The results obtained
+in this study are that El Nino has a significant effect in increasing coffee prices,
+and is followed by other factors, namely the price of substitute goods (chocolate
+prices), productivity and Real GDP.","coffee prices, El Nino, ENSO, La Nina, static panels"
+"PENGARUH PERSEPSI HARGA DAN PERSEPSI KUALITAS
+PRODUK TERHADAP MINAT BELI SUTERA MANDAR",2020,YUNI KARTIKA,"Mandar silk is a traditional woven fabric made from silk yarn obtained from
+silkworms and produced in West Sulawesi. This study aims to analyze the influence
+of consumer characteristics, perceived price, and perceived product quality towards
+purchase intention of mandar silk. This study uses a cross sectional study design,
+which was conducted in Polewali Mandar District, West Sulawesi. The research
+location was chosen purposively. An example in this study is a visitor of a mandar
+silk fabric shop as many as 60 people. Sampling was done using convenience
+sampling techniques. The type of data used in this study is primary data obtained
+from direct interviews guide by questionnaire. The results of the multiple linear
+regression test show that consumer characteristics, perceived price and perceived
+product quality simultaneously have a positive significant influence towards
+purchase intention of mandar silk. However, partially only the age of the consumer
+and perceived product quality have a positive significant influence towards
+purchase intention of mandar silk.","consumer characteristics, mandar silk, perceived price, perceived
+product quality, purchase intention"
+"PENENTUAN HARGA OPSI LOOKBACK DENGAN
+FLOATING STRIKE PRICE MENGGUNAKAN
+METODE MONTE CARLO",2020,GHINA SALSABILA,"Lookback option is an option whose payoff depends on the maximum or
+minimum of the asset price reached during the option period. The lookback option
+is said to be a floating strike price if the value of the strike price is equal to the
+stock price at maturity. The value of the lookback option is determined by the
+Monte Carlo method, while the exact value is obtained from the largest simulation
+value that the computer can compute. Based on the calculation results, the
+resulting relative error value get smaller with the increasing number of
+simulations performed. Therefore, the Monte Carlo method to calculate the price
+of the lookback option with the floating strike price converges to the exact value.","ookback option, floating strike price, Monte Carlo method,
+convergent"
+"ANALISIS HARGA SAHAM MENGGUNAKAN
+MODEL BLACK-SCHOLES DAN
+RUNGE-KUTTA ORDE 4",2020,YOGI ADI SYAH PUTRA,"Stock is a certificate of ownership of a company. Stock analysis and the
+parameters used are important to provide big profits in the future. Black-Scholes
+is a model for analyzing options using Brownian motion. Stock options in
+Indonesia are no longer valid, therefore this research uses the Black Scholes
+model with Runge Kutta Order 4 to analyze the stock price of PT Bank Rakyat
+Indonesia Tbk (BBRI) with an error of 2.27%, PT Bank Cabang Asia Tbk (BBCA)
+with an error of 2.00%, and PT Bank Mandiri Tbk (BMRI) with an error of
+2.44%. This small average error value can prove that this model can be used to
+analyze stock prices.","Black-Scholes, Brownian, Stock."
+"FAKTOR-FAKTOR YANG MEMENGARUHI PERMINTAAN
+GULA DI INDONESIA",2020,FAHMI AHDIANA,"The demand for sugar in Indonesia show increased trend. In the 2013-2017
+period, the demand for sugar in Indonesia is increased by 9.88 percent. There are
+many factors that affect the demand for sugar in Indonesia. The purpose of this
+study is to describe economy condition of sugar in Indonesia and to analyze the
+factors that affect the demand for sugar in Indonesia. The data that used in this study
+are timeseries data from secondary sources in the range of 1993-2017. This study
+uses several types of data including sugar consumption (DG), sugar price (PG),
+coffee price (PK), population growth (DPOP), and GDP per capita (GDP). Data is
+processed with multiple linier regression model using Eviews 9 by ordinary least
+square analysis method. The result showed that sugar price and GDP per capita has
+positive effect. While coffee price and population growth has negative effect. Sugar
+price, coffee price, GDP per capita, and population growth significantly influence
+the demand for sugar on the significance level of 10 percent.","demand for sugar, multiple linier regression, ordinary least square"
+"NATURAL LANGUAGE-BASED FINANCIAL FORECASTING
+OF THE RETURN OF JAKARTA COMPOSITE INDEX
+USING SUPPORT VECTOR REGRESSION ON
+FINANCIAL NEWS PAGES",2020,AUDHI APRILLIANT,"Volatility of return in stocks can be influenced by economic factors and
+socio-economic sentiments that are available in the market. One of the data source
+about socio-economic sentiments is financial news. The number of financial news
+is increasing with along the development of technology and big data era. That
+matter, especially the unstructured data, needs to be utilized in return of stock price
+forecasting. The objective of study is to forecast the return of Jakarta composite
+index (JCI) using natural language-based financial forecasting (NLFF). NLFF was
+applied using predictors from features extraction of textual data, such as sentiment
+and also other mathematics calculations. The forecasting of JCI was conducted by
+using support vector regression (SVR) based on financial news data from Okezone,
+Kompas, and Detik in 2019. In order to get optimum hyperparameters,
+hyperparameters tuning was using walk-forward optimization. The best
+hyperparameters were obtained by comparing the root mean square error (RMSE)
+for each hyperparameters combinations. This study indicated that radial basic
+function was the best kernel because it had the smallest RMSE with the highest
+Pearson correlation compared to linear and polynomial. The JCI forecasting which
+is using only financial news data did not produce good prediction.",hyperparameters tuning; JCI return; NLFF; support vector regression
+"PENGEMBANGAN SISTEM MONITORING HARGA, STOK,
+DAN PRODUKSI CABAI MENURUT SENTRA PRODUKSI
+DENGAN METODE EXTREME PROGRAMMING",2020,GILANG GUNAWAN,"Chili is a commodity that has a large part of inflation in Indonesia due to
+fluctuating prices. The scarcity of chili, inefficient distribution patterns, and the
+length of the supply chain are the triggers for this problem. The development of
+technology is one solution that can be used to overcome these problems. The
+purpose of this research is to develop a system that displays historical data to users
+related to chili in each production center. This system was developed through a
+descriptive analytics approach which is one part of business analytics. Through this
+chili monitoring system per production center, the public can monitor developments
+in the price, stock, production, and productivity of chili in every region in West
+Java. In addition to its benefits to the general public, this system is also utilized by
+stakeholders in making distribution policies, setting targets, and capital for chili
+business in each production center. This research uses extreme programming
+methods that are applied in application development. This web-based system with
+six main features to support information needs related to chili in West Java.","chili, descriptive analytics, extreme programming, monitoring,
+production centers"
+"ANALISIS PERBANDINGAN BIAYA PENGADAAN KAPAL JENIS
+KAYU DAN FIBERGLASS DI PELABUHAN PERIKANAN
+SAMUDERA CILACAP",2020,MOHD FADIL YUTARO,"Fishing vessels in Indonesia generally use wood material. Wood was chosen
+because it is easy to work on, easy to design and recyclable. Wood has experienced
+scarcity in nature and it is difficult to obtain due to excessive wood exploitation.
+The Ministry of Maritime Affairs and Fisheries (KKP) has conducted a conversion
+program for the use of wooden ships to fiberglass ships through assistance for
+fishermen. Fishermen are still reluctant to use fiberglass vessels because they
+consider wooden vessels to have lower procurement costs. The purpose of this study
+were to estimate and compare ship procurement costs, maintenance costs and
+depreciation costs for wooden ships and fiberglass vessels. The analytical method
+used was the calculation of the magnitude of the Gross Tonnage, the analysis of the
+total production cost of shipbuilding and the analysis of depreciation costs. The
+results showed a comparison of the total cost of making and selling prices that are
+components of the cost of procurement of ships incurred for the manufacture of
+three wooden ships and three fiberglass ships with a comparatively comparable size
+obtained that the cost of procuring fiberglass vessels was cheaper than wooden
+vessels. Comparison of maintenance costs and depreciation costs incurred per year
+for three wooden ships and three fiberglass vessels that have varying sizes with a
+relatively similar size ratio obtained by the cost of maintaining the ship and
+depreciation costs incurred for ships made of fiberglass worth less than wooden
+vessels.","depreciation costs, gross tonnage, maintenance costs, production costs,
+selling prices"
+"KAJIAN PENDUGAAN AREA KECIL UNTUK STATISTIK
+INDEKS HARGA KONSUMEN KABUPATEN/KOTA DI
+PROVINSI JAWA BARAT DAN MALUKU",2020,ANDI OKTA FENGKI,"Consumer price index statistics (CPI) are needed as one indicator to know
+the economic characteristics of an area. CPI statistics are needed up to the regencies/
+municipalities level in this decentralization era. It’s like other important statistics
+that are available up to the regencies/ municipalities level. On the other hand,
+surveys to obtain CPI statistics are very limited so that CPI statistics are not
+available in many regencies/ municipalities. The regencies/ municipalities that have
+CPI statistics are incomplete in one province in all provinces in Indonesia.
+There are two problems faced when the regency/municipality CPI needs to
+be estimated. First is the resulted CPI statistics are only representative for urban
+areas because in this area samples are available to estimate it. Second is the
+existence of regencies/municipalities that do not have samples but their CPI
+statistics need to be provided. The small area estimation (SAE) methods can be
+applied as a solution to improve the accuracy of direct estimation results in area
+samples and also obtain CPI statistics in non-sampled regencies/municipalities.
+This study used the released data by BPS. The response variables were the
+January 2018 consumer price index (CPI), obtained from the 2012 SBH and 2018
+SHK. There were seven response variables according to the number of expenditure
+groups. The auxiliary variables were obtained from the village potential data
+collection in 2018 (PODES 2018). This PODES 2018 data was the result of
+compilation of village administration data by BPS. There were 37 auxiliary
+variables consisting of six aspects. The form data was the ratio of the existence of
+villages in a regency/municipality based on these six aspects.
+In this study, the regency/municipality CPI was estimated using the Fay-
+Herriot model and the parameter were estimated by empirical best linear unbiased
+predictor (EBLUP-FH). The results show that the EBLUP-FH can produce CPI
+statistics at the sampled regencies/municipalities with better accuracy than direct
+estimation in West Java Province. This is indicated by the value of the relative root
+mean square error (RRMSE) of the EBLUP-FH CPI is smaller than the direct
+estimator. The EBLUP-FH produced sample regency/municipality CPI statistics
+with accuracy that was no better than direct estimation in Maluku Province. This
+means that the EBLUP-FH estimator has not been able to improve the estimation
+results directly with the sample size available in Maluku Province. Then, this study
+improved the model using imputation for some observation with mean and
+regression of CPI statistics, so the better EBLUP-FH estimator was obtained. The
+EBLUP-FH can also produce non-sampled regency/municipality CPI statistics with
+good result.","consumer price index, EBLUP, Fay-Herriot model, small area
+estimation"
+"ASIMETRI HARGA BERAS DAN DAGING SAPI
+DI INDONESIA",2019,MULIA ARY MASHITOH,"This study analyzes the movement and asymmetry of rice and beef prices at
+the producer and consumer level between regions in Indonesia. The data used in
+this study is data on rice and beef prices at the producer and consumer level from
+2010 to 2017. The method used in the analysis is the Error Correction Model
+(ECM). The movement of rice and beef prices between regions in Indonesia
+fluctuated throughout the period 2010-2017. The price of rice at the producer level
+is more volatile than the price of rice at the consumer level. While the price of
+beef at the consumer level is more volatile than the price of beef at the producer
+level. Transmission of rice prices at the consumer level to prices at the producer
+level occurs asymmetrically, both in the short term and in the long run. In
+producer-consumer relations, the transmission of rice prices at the producer level
+to prices at the consumer level occurs asymmetrically in the short term, but
+symmetrically in the long run. While the transmission of beef prices at the
+consumer level to prices at the producer level is symmetrical in both the short and
+long term.","Price Asymmetry, Rice, Beef, ECM"
+"ANALISIS PERGERAKAN DAN RISIKO HARGA CABAI
+MERAH BESAR DAN BAWANG MERAH DI PASAR INDUK
+KRAMAT JATI",2019,MUHAMAD MUHSONEF,"Red chili and shallot are important commodities within the Indonesian
+economy. The price conditions of red chili and shallot in Kramat Jati Central Market
+fluctuated. The price fluctuation of red chili and shallot indicate a price risk. The
+purpose of this study was to analyze the movements and risks of the prices of red
+chili and shallot in the Kramat Jati Central Market. The study used secondary data
+on prices of red chili and shallot for the period of January 2014 to December 2016.
+This study used descriptive analysis, a coefficient of variation and variance using
+the ARCH-GARCH model. The results showed that the prices of red chili and
+shallot fluctuated. The factors that influence the price of red chili at the current time
+period were the supply of red chili during the current period and the price of chili
+in the previous period. While the risk of red chili prices for the current period was
+influenced by the volatility of the price of red chili one day before and the price
+variance of one and two days before. The factors that influence the price of shallot
+for the current period was the prices of shallot in the previous period. While the risk
+of shallot prices for the current period was affected by the volatility of shallot prices
+and the variance of shallot prices in one day before.","ARCH-GARCH, price risk, red chili, shallot"
+"ASIMETRIS HARGA SKIM MILK POWDER DI PASAR
+INDONESIA DAN INTERNASIONAL",2019,BILFAN NUR AULIA R.,"This study aims to analyze the real-price skim milk powder (SMP)
+transmission in the Indonesian and international markets. The data used in this study
+is a SMP price (HS 040210) starting from January 2010 to January 2019. The
+method used in this study is the Error Correction Model (ECM) method. The results
+of the study show that overall, there is a mutually integrated relationship between
+SMP prices in the Indonesian and international markets. The results show that short-
+term price transmission in the Indonesian market and international markets (the
+United States of Australia, Belgium, and New Zealand) occurs asymmetrically in
+the short due to adjustment costs. Meanwhile, there is no asymmetric price
+transmission in the long run. This shows that there is no market power by the
+Indonesian exporting country.","Asymmetrical prices, ECM method, Skim Milk Powder’s Price"
+"PENGARUH BEA KELUAR TERHADAP HARGA TANDAN
+BUAH SEGAR (TBS) DI INDONESIA",2019,ATIKA FAIZI CRAFTY,"The decline in Crude Palm Oil (CPO) price in couple years has a direct
+impact on Indonesian palm oil market and farmers. In response to this
+phenomenon the government remove the export tax of CPO to increase fresh fruit
+bunches price in Indonesia. This study aims to determine the effect of export tax
+of CPO on fresh fruit bunches price and analyzing the factors that influence it.
+The analysis Error Correction Model was used to identify the variables that
+significantly affect fresh fruit bunches price in Indonesia. The data used in this
+study were monthly data from January 2010 to December 2017. Results showed
+in the long run the fresh fruit bunches price is influenced by the export tax,
+Indonesia crude palm oil (CPO) price, world price, export in Indonesia, and
+exchange rates rupiah to US dollar. While in the short term fresh fruit bunches
+price is influenced only by the world crude palm oil price.","Export Tax, Fresh Fruit Bunches Price, CPO, Error Correction Model"
+"ANALISIS PENGARUH TINGKAT KONSUMSI KARET ALAM
+DALAM NEGERI TERHADAP HARGA KARET ALAM
+INDONESIA",2019,PENGGAWA PIETRA PRAMANANDA,"The decline in natural rubber prices in recent years has a direct impact on
+Indonesia natural rubber market. In response to this phenomenon the government
+plans to increase natural rubber domestic consumption to increase Indonesia rubber
+prices. This study aims to determine the effect of increasing natural rubber domestic
+consumption on natural rubber prices and the factors those influence it. The method
+Error Correction Model was used to identify the variables that significantly affect
+Indonesia natural rubber prices. The data used in this study are monthly data from
+January 2012 to December 2017. Results showed in the long run the Indonesia
+natural rubber price is influenced by the previous period of Indonesia natural rubber
+prices, world natural rubber prices, world crude oil prices, and exchange rates
+rupiah to US dollar. While in the short term, Indonesia natural rubber prices is
+influenced by the previous period of Indonesia natural rubber prices, world natural
+rubber prices, and exchange rates rupiah to US dollar. Natural rubber domestic
+consumption is not significantly affect Indonesia natural rubber prices.","Error correction model, domestic consumption, natural rubber prices"
+"VOLATILITAS HARGA SUSU SEGAR DI TIGA PROVINSI
+PRODUSEN SUSU INDONESIA",2019,DIANI ALIYA SOFIA,"This study aims to analyze the volatility of fresh milk prices in three milk
+producer provinces in Indonesia. This study uses secondary data from three
+provinces in Indonesia during the period of June 2015 to December 2018. The
+method used to analyze the volatility of fresh milk prices using the ARCH-GARCH
+method and to analyze the factors that influence it using the VECM method. The
+results of this study are volatile fresh milk prices occurring in West Java Province
+which is influenced by the volatility of the previous period. Factors affecting the
+volatility of prices of fresh milk in West Java occur in the short and long term. The
+factors that influence in the long run are climate, world milk prices, and feed prices.","ARCH-GARCH, fresh milk prices, VECM, volatility"
+"ANALISIS PENENTUAN HARGA OUTPUT MINIMUM
+DI TINGKAT PETANI DALAM UPAYA PEMENUHAN
+KEBUTUHAN RUMAHTANGGA PETANI
+(Studi Kasus: Usahatani Padi di Desa Ciasmara Kecamatan
+Pamijahan Kabupaten Bogor)",2019,DINA PRATIWI,"Rice is an important commodity as a staple food for Indonesian people.
+But the number of farmers in Indonesia is decreasing and the welfare of farmers in
+Indonesia is still low. Bogor Regency is one of the five regencies in West Java
+Province that produces the largest amount of rice. The average price of paddy
+grains in Bogor Regency is still below the West Java Province average price. This
+price has not been able to create enough income for farmers to meet their
+household needs. The purposes of this study are to: (1) Analyze the cost and
+income structure of rice farming, (2) Analyze household expenditure of rice
+farmers, (3) Analyze minimum output prices at the level of rice farmers in
+Ciasmara Village. The method used in this study are the analysis of cost
+structures, analysis of income, analysis of household expenditure, and analysis of
+output prices. The results showed that the R/C value of the cash costs for planting
+seasons I, II, and III were 4.81, 4.40 and 4.15, respectively. Farmer household
+expenditure is greater for non-food expenditure than food. The minimum output
+price that can meet the basic needs for three person household size is IDR 5 274
+per kg of paddy grains and for four person household size is IDR 5 701 per kg of
+paddy grains.","household expenditure, income, output price, paddy grains, rice
+farming"
+"PENGARUH PENDAPATAN DAN HARGA PANGAN
+TERHADAP DIVERSIFIKASI KONSUMSI PANGAN POKOK
+DI KAWASAN BARAT DAN TIMUR INDONESIA",2019,ADE DWI ARYANI,"Staple food consumption diversification is an effort to diversify food intended
+for the people to not depend on one type of staple food commodity. Changes in
+income and food prices will determine the ability of real purchasing power of the
+people which ultimately affects the diversity of the types of staple food purchased.
+This paper analyzes the effect of income and food prices on the staple food
+consumption diversification in Western and Eastern Regions of Indonesia during
+the period 2013-2017. This study uses the econometrics model in the form of panel
+data with Fixed Effect Model (FEM) approach. The results show that income can
+increase the staple food consumption diversification in Eastern Regions of
+Indonesia, but it can reduce the staple food consumption diversification in Western
+Region of Indonesia. This is due to differences in food expenditure in each region.
+Food prices affect the staple food consumption diversification in both regions.
+Stable and affordable food prices can increase food access so that people are able
+to buy food commodities to meet their needs.","FEM, food prices, income, staple food consumption diversification"
+"ANALISIS DAMPAK EL NINO TERHADAP HARGA
+KOMODITAS POKOK PANGAN, INFLASI DAN
+KEMISKINAN DI INDONESIA",2019,BRONSON MARPAUNG,"El Nino is one of the climate phenomena that has a direct impact on
+Indonesia in the form of droughts, decreasing rainfall and decreasing agricultural
+production. The first objective of this study was to analyze the influence of El
+Nino and other variables on inflation and the second objective in this study was to
+analyze the impact of El Nino and other variables on poverty. The method used is
+the static panel method. this study uses data from 25 provinces in Indonesia.
+Monthly data period from 2008-2015.
+The dependent variable in this study is inflation and the number of poor
+people. while the independent variables are food commodities such as Prices of
+chili, Onions, Rice, Soybeans, Corn, El Nino, Inflation and PDRB. El Nino and
+the price of food comodities have a positive and significant effect on inflation.
+Inflation have a positive and significant effect on the number of poor people,
+while PDRB have a negative significantly effect the number of poor people.
+Based on this research it can be suggested that the government as a
+policy maker in repeating and accommodating the impact of El Nino with policies
+on food price supervision. The government strengthens the provision of
+supporting facilities and infrastructure for agriculture by means of good irrigation.
+The El Nino phenomenon has an impact on changing weather and climate from
+changes in rainfall to the rainy season.","El Nino, Food Commodities, Inflation, Panel Data, Poverty"
+"DAMPAK PENGEMBANGAN BIOFUELS TERHADAP
+TRANSMISI VOLATILITAS HARGA BEBERAPA
+KOMODITAS PANGAN DUNIA",2019,FATHIMAH SHOLIHAH,"The increasing global production of biofuels provides a new link between
+crude oil and agricultural commodities. US and Indonesia are countries which have
+been doing biofuels development. US used corn and Indonesia used palm oil as
+feedstock of biofuels. Biofuels development leads increasing biofuels feedstock
+demand. Unfortunately, this conditions gave impact on rising biofuels feedstock
+prices and others agricultural commodities prices which has relationship with
+biofuels feedstock, for instance meat chicken, rice, wheat and soybean.
+The aims of this research are to analyze relationship between crude oil prices
+and agricultural commodities prices through volatility pattern descriptions and
+cointegration analysis, to analyze the impact of biofuels development which used
+corn and palm oil on food prices through price transmission and price volatility
+transmission; furthermore this research will compare the effect between corn and
+palm oil to food prices. This paper will examine two types of transmission ; cross
+commodity and spasial transmission. Using monthly data from 1960 to 2008, we
+used some model to answer the purpose: ARCH GARCH model and Engle Granger
+Cointegration test to examine relationship between crude oil prices and agricultural
+commodities prices, VAR model identifies transmission in price while GARCH
+BEKK model is used to identify transmission in volatility.
+Based on the result, there are a relationship between crude oil and agricultural
+prices. The relationship can be seen through similarity volatility pattern and
+cointegration between them. Moreover, biofuels development give impact not only
+increasing on biofuels feedstock prices but also on food prices. The volatility of
+corn price is transmistted to five commodities: own past price, palm oil, rice,
+soybean and wheat, but the volatility of palm oil is transmitted just to one
+commodity, soybean. The findings of the study indicate that biofuels development
+used corn as food commodity is more risk than used palm oil as plantation
+commodity, then biofuels development does not give impact on domestic price in
+Indonesia.","biofuels, GARCH BEKK, price transmission, price volatility
+transmission"
+"ANALISIS PENGARUH KARAKTERISTIK FISIK BERAS
+TERHADAP HARGA BERAS
+(Studi kasus di Bogor)",2018,LAYYINATUL KHOLIQOH,"Quality differences on rice has an influence on price differences of rice.
+One of the factors that determines rice quality is its physical characteristics.
+Bogor is one region in Indonesia which has a high rainfall, that the water content
+of its rice is high and makes the rice’s quality lower. The purpose of this study is
+to know the impact of rice physical characteristics on rice prices in Bogor. The
+method used in this study is descriptive analysis method and hedonic price
+analysis. Results showed that most rice in Bogor is categorized as Premium II
+quality, according to its physical characteristics. Based on hedonic price analysis,
+all independent variables used has a significant effect on rice prices. However,
+only menir grain, broken grain, and ration of length to width variables that has
+significant effects on rice prices in Bogor.","rice, hedonic price function, price, physical characteristics, quality"
+"TRANSMISI DAN ASIMETRI HARGA BAWANG
+MERAH DI INDONESIA",2018,MEI HARDIANTI UTARI,"Shallot is one of the commodities that given special attention of the
+government, as an effort to anticipate inflation. In Indonesia, shallot cultivation is
+done in a seasonal way, so there is an over supply that causes a decrease in the price
+during the harvest season, while the price increases in the famine season. Price
+fluctuations in horticultural commodities have more impact to farmer than trader,
+they can provide more opportunities for traders to manipulate price information at
+the farmer level and cause price asymmetry. The purpose of this study is to analyze
+the transmission of shallot price in Indonesia used an Error Correction Models
+(ECM) approach. This research used the daily data of shallot price at the producer,
+central market, and consumer levels in 2017. The results of this study indicate there
+is an asymmetry between producer and central market in the short run.","Asymmetry, ECM, Price Transmission, Shallot."
+TRANSMISI DAN ASIMETRI HARGA CABAI DI INDONESIA,2018,MUTHIA RAHMA DEWI,"Chili (Capsicum sp) is one of the strategic horticultural commodities that
+play an important role in the Indonesian economy. One of these roles can be seen
+from the contribution of chili in the formation of national inflation rate. Prices
+fluctuation in the marketing levels of chili will provide an opportunity for market
+participants to manipulate prices. This can lead to the transmission of prices in the
+marketing chain to be imperfect. Producer does not benefit from price increase at
+the consumer level and the consumer does not benefit from the decline price in
+producer price. The purposes of this study are to: (1) analyze price movement of
+chilies at producer, wholesale market, and retail level in Indonesia, (2) analyze the
+price asymmetric of chilies at producer, wholesale market, and retail level in
+Indonesia. Secondary time series data daily 2017 which is the price of chilies was
+used for the analysis. Source of data obtained from Kementerian Pertanian and
+Info Pangan Jakarta. The research using a model Error Corection Model (ECM).
+The results show that: (1) the price of chili change is faster at the producer level,
+(2) asymmetric price of red chili and small chili occurs at the wholesale market
+level. Asymmetric price of curly chili occurs at the producer to retail level.","chili, ECM, price asymmetric, price fluctuation"
+"FAKTOR-FAKTOR YANG MEMENGARUHI RISIKO HARGA
+BAWANG MERAH DI TINGKAT PETANI
+DI KABUPATEN BREBES",2018,FAJRIANSYAH HENDRA PRATAMA,"Brebes Regency, Central Jawa is the greatest onion center in Indonesia. Seasonal
+onion production potentially lead price risk in farmers level. Based on the fact
+price risk received by the farmers, This research is intend to analyze onion price
+movements in farmers level and to analyze the factors which affect onion price
+risk in farmers level. Secondary data that used in this research is timeseries data
+about price and production of shallots in farmers level years 2010-2017 which is
+retrieved from Dinas Petanian Kabupaten Brebes and Dinas Perdagangan
+Kabupaten Brebes. The research using standard deviation method for analyzing
+the movement of onion price and using ARCH-GARCH method for analyzing the
+affecting factors of onion price. The result of this research conclude that onion
+price fluctuation in farmers level causing risk to the farmers. Onion price at last
+period and onion production in this period are the factors that affecting the onion
+price.","farmers, fluctuation, onion, price risk, seasonal"
+TRANSMISI DAN ASIMETRI HARGA BERAS DI INDONESIA,2018,MUNA RIZKI HUTAMI,"Rice is one of the food crops commodity and carbohydrate source for
+some of Indonesia's population, therefore, rice is used as an indicator of poverty.
+The demand for rice is inelastic, hence the fluctuation of rice price becomes the
+government's attention. The transmission of rice prices goes asymmetrically, thus
+causing a high price disparity among agencies within the rice marketing chain.
+This research aims to analyze the movement of rice prices at the level of
+producers, wholesalers, and consumers, also analyze the asymmetry of rice prices
+in Indonesia. This research uses secondary data as time series data, in the form of
+medium and premium rice (1 January-31 December) daily data in 2017 while
+employing Error Correction Model (ECM) method. The result of this research
+reveals that based on the value of the coefficient variation (CV), producer price is
+more fluctuated compared to the market price of the wholeseler and consumer.
+Transmission analysis results of medium and premium rice prices indicates in the
+long run for both types of rice is asymmetry.","Asymmetry Price, ECM, Rice"
+"DAMPAK IMPOR TAPIOKA
+TERHADAP HARGA UBI KAYU DI INDONESIA",2018,LURIANA TASLIM,"Indonesia’s tapioca import has increased over the past few years. As the main
+component in tapioca production, cassava has a close relationship with tapioca. Cassava
+price plays an important role in the lives of cassava farmers and its processing industry,
+it also determines the competitiveness of Indonesia’s cassava and tapioca. Therefore,
+cassava prices need to be observed. This study aims to analyze the factors that determines
+Indonesia’s cassava prices and the impact of tapioca import policy on Indonesia’s cassava
+price determination. The method Error Correction Model was used to identify which
+variables have significant effects on the determination of Indonesia’s cassava prices.
+Monthly time series data from January 2011 until December 2016 was used in this study.
+Results showed that in the long-term, previous month’s cassava price, imported tapioca
+price, tapioca import value, and exchange rate have significant effects on Indonesia’s
+cassava prices. While in the short-term, variables that have significant effects on
+Indonesia’s cassava prices are previous month’s cassava price, tapioca import value, and
+domestic cassava production. Tapioca import volume does not have significant effects
+on Indonesia’s cassava prices. Based on the results of this study, the right policies to be
+applied are cassava’s production and productivity enhancement, which can be attained
+through extensification and intensification programmes.","Error Correction Model, tapioca import, price determination, cassava"
+"PENERAPAN METODE VAR-X UNTUK PEMODELAN DATA
+DERET WAKTU DENGAN CALENDAR EFFECTS
+(Studi Kasus: Data Harga Broiler dan Karkas di Jawa Barat
+Tahun 2015-2018)",2018,ADE GUSALINDA,"One of the commodities that has quite varied price fluctuations is broiler and
+carcass chicken. The context of forecasting is quite important considering the
+policies that can be taken by the producer and even the strategies that can be taken
+by consumers. This study attempts to modeling broiler and carcass prices together
+with Vector Autoregressive (VAR) which is one method in time series analysis
+that utilizes more than one time series variable. In addition, the effect of calendar
+calendar events is also the topic of discussion in this study which is implemented
+by the VAR-X method. As a result, the calendar effects variables that affect
+broiler and carcass prices are February, the first week of Ramadan and Eid-ul-Fitr.
+Furthermore, forecasting with VAR-X produces a pretty good value than VAR
+with lower MAPE criteria.","calendar effects, broiler prices, carcass prices, VAR, VAR-X"
+"KAITAN PERUBAHAN IKLIM TERHADAP HARGA
+PANGAN SERTA HORTIKULTURA DI DAERAH
+TERDAMPAK FENOMENA EL NINO DAN LA NINA",2018,HALIMAH CAHYANING FAJRI,"Climate change becomes a global issue because it has a wide impact on a
+country’s socio-economic condition. The main factor influencing climate change
+in Indonesia is El Nino Southern Oscillation (ENSO) consisting of three phases,
+El Nino, Normal and La Nina phases. ENSO plays an important role in climate
+variations and intensity of rainfall, so that it can affect the agricultural sector,
+especially the food and horticulture crops sub-sector which is very vulnerable to
+climate change. This research examines the impact of climate change on food and
+horticulture prices such as rice, maize, soybean and red chili using the static panel
+method. Cross section data focuses on the 10 most affected provinces of the
+ENSO phenomenon, while time series data is used from 2011Q1 until 2016Q4.
+The results show that El Nino significantly affects the increase of rice and
+soybean price and the decrease of maize price. While La Nina significantly affects
+the increase of rice price and the decrease of red chili price. In general, El Nino
+has a bigger impact on food prices than La Nina.","el nino, food prices, la nina, data panel, climate change"
+"ANALISIS STRATEGI PENETAPAN HARGA PRODUK SUSU
+SAPI SEGAR DI CV SRIAGUNG JAYA MAKMUR
+JAKARTA SELATAN",2018,MARIA SARAH DIVA SIMANJUNTAK,"CV Sriagung Jaya Makmur is one of 39 dairy cattles breeding companies in South
+Jakarta that still stands to compete with other breeders. CV Sriagung Jaya
+Makmur was established since 1974. The purpose of this study is to determine the
+price of cow's milk products that can be used by CV Sriagung Jaya Makmur.
+Analytical Hierarchy Process (AHP) processing and analytical data processing
+methods (AHP) are processed using Expert Choice 11. The strategy of
+determining the price of cow’s milk product applied by CV Sriagung Jaya
+Makmur is not effective yet. The best alternative strategy for pricing of fresh
+cow’s milk product based on calculate the production cost where the company
+does not only try to attractive consumers but determine the basic price by all the
+cost during the cultivation of dairy cattle.","AHP, cow’s milk, descriptive analysis, price"
+"PERBANDINGAN VARIMA DAN GENERALIZED SPACE
+TIME ARIMA DALAM MEMODELKAN HARGA CABAI",2018,BRIANDAMAR KENCANA,"Chili is an important commodity for the economy whereas increasing price
+of chili contributes to large inflation of foodstuffs that occur in Indonesia. DKI
+Jakarta Province is an area that does not produce chili. Meanwhile, the demand of
+chile in DKI Jakarta is fulfilled by importing from other provinces mainly from
+West Java Province, Central Java, and East Java. This indicates that there is a link
+between the location on the price of chili in Java. Price of chili modeling in five
+provinces in Java is intended to forecast the price of weekly chili not only related
+to the previous time but also related to its surrounding provinces. The VARIMA
+model is a dual variable time data forecasting data model. The model depends not
+only on the lag of the variable itself but also influenced by other variables. Thus,
+GSTARIMA model approach is data model development of time series with
+multiple variables that include weighting location into the model. The results show
+that the model produced to predict the price of chili using both models are VAR (3)
+and GSTAR (3; 1) models. The mean absolute percentage error (MAPE) values
+generated on the VAR model (3) is smaller than the GSTAR model (3;1). The
+MAPE value generated by the VAR (3) model is 6.84% and R2 is 94.953%"," GSTARIMA, Price of Chili, VARIMA"
+ANALISIS VOLATILITAS HARGA BAHAN PANGAN UTAMA DI INDONESIA,2017,MUHAMMAD GALIH PANGESTU,"""Indonesian agricultural products have price fluctuation (volatile food).
+Volatile food issues, Agreement of Agriculture (AOA) issues, and food security
+issues became the basis for analyzing the volatility of main food prices. Variable
+of staple food used in this study, such as rice, sugar, and oil use the time series
+data. Analysis price volatility focus of three indonesian areas, there are west
+(Medan, Palembang, Jakarta, Semarang), central (Denpasar, Samarinda), and east
+(Makassar, Jayapura) region. Methods of analysis used in this research is analysis
+of the econometric forecasting model Autoregressive Intergrated Moving Average
+(ARIMA) and Autoregressive Conditional Heteroscedasticity (ARCH) or
+Generelized Autoregressive Conditional Heteroscedasticity (GARCH). ARCH-
+GARCH analysis result indicate price of staple food and experience price
+volatility. Rice price volatility was highest in Samarinda City, sugar price
+volatility was highest in Semarang City, while oil price volatility was highest in
+Semarang City.""","ARCH-GARCH, ARIMA , palm oil, rice, sugar, volatility"
+"ANALISIS VOLATILITAS HARGA KOMODITAS BAWANG
+MERAH DI KABUPATEN NGANJUK
+(Studi Kasus: Harga Bawang Merah Pasar Warujayeng)",2017,ZUNA DYAH KUSUMA WARDHANI,"As one of the daily necessities, shallot is a horticultural crop that has
+potential in agriculture. High consumption levels make the price of shallot tends to
+fluctuate and vulnerable to inflation. As the second largest shallot production center
+in Indonesia, researchers chose Nganjuk regency as the object of research. This
+study aims to estimate the volatility of the price of shallot in Nganjuk regency with
+the price of Shallot Market Warujayeng; And analyzing the factors may affect the
+volatility of shallot prices in Warjayeng Market. The data used is secondary data
+with time series type from January 2012 to December 2016. Econometrics model
+used in this research is ARCH-GARCH model. Based on the analysis, it can be
+concluded that the price of shallot commodity has volatility pattern in March and
+July every year. The price of shallot in main market and also shallot's price of one
+week ago is a variable that affect the volatility of shallot price in Warujayeng
+Market. While the independent variables of rainfall, the price of shallot at Berbek
+Market, and dummy pest has no significant effect on price volatility","ARCH GARCH, shallot, factors, price fluctuations, volatility rate"
+"PERHITUNGAN HARGA POKOK PRODUKSI DAN
+HARGA JUAL (STUDI KASUS PD SAKAR WANGI DAN
+PD AMELIA JAYA) KABUPATEN BOGOR",2017,ARIS MUNANDAR,"Calculation of the cost of goods manufactured has an important role in
+monitoring the realization of the cost of goods manufactured and the determination
+of the selling price. This studyis conducted on small and medium enterprises
+(SMEs) namely PD Sakar Wangi and PD Amelia Jaya. Determination of the cost
+of goods manufactured in small and medium enterprises (SMEs) PD Sakar Wangi
+and PD Amelia Jaya, is still simple.The calculation made only takes into account
+the direct raw materials, direct labor costs and auxiliary materials. This study aims
+to comparing the calculation method of the cost of goods manufactured using full
+full costing approach applied by SMEs and determining the selling price of SMEs.
+The results show that the calculation of the cost of goods manufactured of
+mahogany door based on the calculation of PD Sakar Wangi and PD Amelia Jaya
+is smaller than the calculation of the cost of goods manufactured using full costing
+approach, the determination of selling price of based on the estimation of PD Sakar
+Wangi and PD Amelia Jaya is smaller than the determination of selling price based
+cost plus pricing method.","cost of goods manufactured, full costing, mahogany door"
+"ANALISIS PERGERAKAN DAN RISIKO HARGA CABAI
+DI PASAR INDUK KRAMAT JATI",2017,NOVA ISMAIL,"Chilies is one of horticulture commodities which is important for economy
+of Indonesian society. Because, agribusiness of chilies involves many parties in its
+system such as farmer, trader, and consumer. At trader level, especially at Kramat
+Jati central market, chilies are the most heavily traded commodity in term of daily
+commodity supply sent to central market. As for, chilies daily prices condition are
+fluctuate. The fluctuations of chilies prices cause price risk for this commodity.
+Price risk causes costs for trader. This study aims to analyze price movements and
+chili price risk on trader level at Kramat Jati central market. The data used is daily
+price period January 2013 to December 2015. This study used descriptive analysis,
+coefficient variance and variance with ARCH-GARCH model. The factors
+affecting the chili price in current period are the chili supply in current period and
+chili price in previous period. While, the risk of chili price in current period is
+affected by the volatility of chili price one day before and the variance of chili
+price one day and two days before.","ARCH-GARCH model, chili, product price risk"
+"ANALISIS HARGA CABAI MERAH BESAR DI PASAR
+ECERAN JAKARTA DENGAN MENGGUNAKAN
+ANALISIS GEROMBOL DERET WAKTU",2017,REGHINA ARDALOVA,"Red chili trading system in DKI Jakarta is determined by wholesalers and
+retailers. Wholesalers at Pasar Induk Kramat Jati plays a role to distribute red chili
+to all retailers in 43 local markets. Although all the supply of red chili comes from
+Pasar Induk Kramat Jati, but the price of red chili in the local market tends to vary.
+A considerable price difference in some local markets is the basic idea of this
+research. This study aims to analyze the price of red chili by cluster all retail market
+using clustering timeseries hierarchical method with ward linkage and CID as a
+distance. The clustering result generated four group of retail market. Each grup
+showed that there was a difference in price fluctuation, but in general each group
+showed a similar pattern of price movements. The marketing mechanism between
+each group and Pasar Induk Kramat Jati were not well integrated but did not indicate
+market segmentation. However, prices in the retail market remain influenced by
+prices at the Pasar Induk Kramat Jati, as can be seen from the t test significant result.
+Meanwhile, based on correlation analysis, there was no correlation between the
+distance of retail market to Pasar Induk Kramat Jati with the average weekly price
+in each market, while population density in every sub-district showed reverse
+relationship with correlation coefficient of -0.376.","CID, market integration, red chili prices, timeseries clustering"
+"PENGEMBANGAN MODUL PELAPORAN HARGA KOMODITAS
+PERTANIAN PADA APLIKASI PORTAL HARGA UNTUK
+PETANI MENGGUNAKAN REST API",2017,SHELLAFURI BIRU MARDIKA,"Agricultural commodities price may fluctuate every day, one of the causes is the
+middleman. The presence of middlemen may cause harm to the farmers, this is due to the
+price gaming by middlemen. This research is the development of agricultural commodity
+price reporting module for farmers side using the representational state transfer (REST)
+Application Programming Interface (API) with the MySQL database. The method used in
+this research is extreme programming. Data is processed on REST API using Node.js and
+the results of the data is saved in the form of JSON. This study aims to facilitate the farmers
+to present their harvest result and their aspirations to the government. In addition, the system
+also allows farmers to see aspirations, prices of agricultural commodities, and results of
+harves,t and support aspirations. The testing result using black box method showed that the
+main function of Portal Harga application worked correctly according to the application
+requirements.","agricultural commodities, fluctuation, price, REST API"
+"SISTEM PENETAPAN HARGA JAGUNG DAN KEDELAI DI
+PASAR TRADISIONAL JAKARTA TIMUR
+(PERIODE 2011-2015)",2017,FUZAWATY ZIHAN KUSUMAH,"The maize production in 2015 just realize 24.84 ton million and can not
+meet the national demand about 1.6 kilogram/capita/year. In another hand, the
+soybean production, which realize 963.18 ton thousand, also can not meet the
+national demand about 2.2 ton million. It cause a price fluctuation in maize and
+soybean commodities. This study aims to analyze the pricing of maize and
+soybean at the consumer level by using VECM and analyze market behavior of
+East Jakarta in pricing at the consumer level by using game theory. The results
+show that the maize price are positively influenced by the producer price, the
+wholesale price, and the gasoline price while negatively influenced by the supply.
+The soybean price is negatively influenced by the producer price and positively
+influenced by the wholesale price. Sudden changes in supply cause a price
+fluctuation on consumer. This probability occurs as the impact of dominant
+strategy in pricing through market pricing strategy by commodity retailers.","game theory, maize, soybean, VECM"
+"ANALISIS VOLATILITAS HARGA BAHAN PANGAN
+UTAMA DI INDONESIA",2017,MUHAMMAD GALIH PANGESTU,"Indonesian agricultural products have price fluctuation (volatile food).
+Volatile food issues, Agreement of Agriculture (AOA) issues, and food security
+issues became the basis for analyzing the volatility of main food prices. Variable
+of staple food used in this study, such as rice, sugar, and oil use the time series
+data. Analysis price volatility focus of three indonesian areas, there are west
+(Medan, Palembang, Jakarta, Semarang), central (Denpasar, Samarinda), and east
+(Makassar, Jayapura) region. Methods of analysis used in this research is analysis
+of the econometric forecasting model Autoregressive Intergrated Moving Average
+(ARIMA) and Autoregressive Conditional Heteroscedasticity (ARCH) or
+Generelized Autoregressive Conditional Heteroscedasticity (GARCH). ARCH-
+GARCH analysis result indicate price of staple food and experience price
+volatility. Rice price volatility was highest in Samarinda City, sugar price
+volatility was highest in Semarang City, while oil price volatility was highest in
+Semarang City."," ARCH-GARCH, ARIMA , palm oil, rice, sugar, volatility"
+"PERILAKU PELANGGAN DAN INSENTIF HARGA
+DAGING AYAM DALAM PENGENDALIAN PENYAKIT
+UNGGAS",2017,DITA MELIANA,"The consumption level of Indonesian society towards chicken meat tends to
+increase in 2011 and 2015 were accompanied by price fluctuations. This study
+aims to: (1) to analyze the characteristics and behavior of consumers of chicken
+meat. (2) analyze the consumer's willingness to pay and incentives chicken meat
+prices when scarcity and health guaranteed. (3) to analyze the factors that
+influence consumer willingness to pay for chicken meat. The analysis used in this
+research is descriptive analysis, approach Contingent Valuation Method (CVM):
+TIOLI and Bidding Games, and multiple linear regression analysis. The results
+showed the characteristics and behavior consuming dominated by housewives
+who buy chicken in the traditional market. The price consumers are willing to pay
+Rp38 165 per kg when scarcity and Rp38 205 per kg for chicken meat is
+guaranteed healthy. Incentives earned Rp16 per kg so inadequate to incentive
+businesses chicken meat supply chain. Factors affecting consumers' willingness to
+pay of chicken meat that is the level of education, occupation, income level,
+family size, and the amount of consumption of chicken meat.","chicken meat price, customer behavior, TIOLI and Bidding Games."
+"SISTEM PENETAPAN HARGA KOMODITAS BAWANG
+MERAH DAN CABAI MERAH DI JAKARTA TIMUR
+(PERIODE 2011 – 2016)",2017,NAAFI FATIMAH HARWANTI,"Shallot and red chili have become strategic issues that contribute to the
+policy of national economy. The problem of both commodities is caused by
+seasonal harvesting constraints that affect domestic stock supply and geographical
+factors that hinder the distribution process. The purpose of this study is to analyze
+the factors and strategy of retailers that could affect the pricing system of shallot
+and red chili commodities in East Jakarta. A monthly time series data from 2011
+to 2016 is used for this research. Furthermore, it also uses VECM method,
+descriptive analysis, and game theory analysis. The result of this study showed
+that the most influencing factors of shallot and red chili commodities pricing at
+the consumer level is the price of the producer and wholesaler. Maximum profit is
+earned when retailers apply collusion as a dominant strategy.","shallot, red chili, game theory, VECM"
+ANALISIS RISIKO HARGA CABAI DI PASAR INDUK KRAMAT JATI,2016,MUHAMMAD AGUS SALIM,"The chili is horticultural commodities which has the highest production in Indonesia among other vegetables. In addition to having high production, Chili has a high price fluctuation. The price fluctuations of chili lead to the risk that must be faced. The purpose of this study was assessing the risk of the price of chili in Pasar Induk Kramat Jati. The second is analyzing the price risk and the factors that affect the price fluctuations every chili in Kramat Jati Central Market. Coefficient of variation is used to assess the price risk. The model used to analyze the factors that affect the risk of price fluctuations and chili is ARCH-GARCH models. The results show that the red cayenne chili has the highest price risk, the second is the curly red chili, and the third is the big red chili. Price risk chili current period was affected by the chili price risk of previous period, the supply of the current period, the supply of previous periods and other types of chili.","chili, fluctuation of price, price risk, coefficient of variation, ARCH-GARCH"
+"ANALISIS FAKTOR-FAKTOR YANG MEMPENGARUHI
+HARGA KEDELAI LOKAL DI INDONESIA",2016,DIAN ANGGITA,"Soybean is one of the strategic food commodities in Indonesia. The government must provide sufficient food at steady and affordable prices in order to improve the welfare of the whole societies in Indonesia. The impact of rising price of soybean and its derivative product can be detrimental to the society. The purpose of this study was to analyze the pattern of prices and the factors that affect the price of soybean in Indonesia. The data used are quarterly data time series period January 2000 - December 2015. The descriptive analysis and multiple linear regression model is used as a tool of analysis in this study. World soybean prices as well as domestic soybean shows that both have a pattern of data trends are likely to continue to increase. It is certainly not a good thing because it can be detrimental to producers and consumers of soybean processing industry. Based on the analysis that has been done, soybean prices in Indonesia are affected by the price of soybean previous period, world soybean prices and exchange rates. While inflation and the volume of imports did not affect the prices of soybean in Indonesia. Therefore, the government should be able to control the internal variables can be controlled so soybean prices can be kept stable.","prices, OLS, soybean, price fluctuations"
+"ASIMETRI HARGA BERAS DI PASAR INTERNASIONAL
+DAN INDONESIA ",2016,AMINATUS SOFIAH,"This study uses monthly data price of rice for 100% quality (premium), 25% (medium) and 5% (low) from January 2013 until March 2016 were obtained from BPS and FAO. The method used in this study is an ECM. The results of this study showed that overall, there is a co-integration relationship between price of rice in the International market and Indonesia. The price of Thailand rice against Indonesia with quality 5% (low) and the price of Vietnam rice against Indonesia with quality 25% (medium). The Coeficcient test result with ECM showing transmision price of rice in the short-term the price of Vietnam rice against Indonesia with quality 25% is symmetric, but asymmetric price of Thailand rice against Indonesia with quality 5%. While the long-term seen on ECT + and ECT - no statistically identical. In the other side, transmission prices of Vietnam rice againts Indonesia rice for the quality of 25% (medium) and Thailand rice against Indonesia rice for the quality of 5 % (low) occours symmetrically. ","Rice, Asymmetry Price, Transmission Price, ECM"
+"ASIMETRI HARGA BERAS : STUDI KASUS DI 10
+PROVINSI DI INDONESIA",2016,SELLY YANTY NANSYAH PUTRI,"This research examines price movement of rice IR 64 and price asymmetry between the producer anf the consumer in 10 provinces in Indonesia. Data for this study is a secondary data from BPS, monthly time series in period 2003-2015. Using GKP price data of rice at the producer’s level and retail price of rice at the consumer’s level. The analytical tool on this research is Error Correction Model (ECM). The results show that in short term, transmission of consumer price on producer price is asymmetry. It happens on 5 provinces which are North Sumatra, Central Java, East Java, West Kalimantan and East Kalimantan. While in the long term, it is symmetry in North Sumatra,Central Java, East Java, NTB, West Kalimantan, Central Kalimantan and East Kalimantan.","Rice, Price asymmetric, ECM"
+"PENGARUH BEA KELUAR MINYAK KELAPA SAWIT
+MENTAH TERHADAP HARGA MINYAK GORENG",2016,DANDY DHARMAWAN,"Palm cooking oil price needs to be stabilized by government due to it’s important role as Indonesia’s main food. CPO export tax is one of the instruments to control Indonesia CPO stock and to control palm cooking oil price. But since this policy was firstly implemented in 1994, Indonesia CPO export supply kept increase. The general aim of this research is to analyze the effect of CPO export tax on Indonesia palm cooking oil price. This research was conducted by formulating simultaneous model of palm oil. The Two Stage Least Square (2SLS) method was used to estimate the parameters of the simultaneous equation in the model. The simulation of the model indicates that CPO export tax hampered Indonesia CPO export supply, CPO domestic price and palm cooking oil price respectively.","Export tax, Crude Palm Oil (CPO), palm cooking oil price"
+"ZONA FLEKSIBILITAS HARGA PRODUK OLAHAN
+PERTANIAN
+(Studi Kasus Minuman Sari Buah Jambu Kristal dan Minuman Sari Ubi
+Ungu di KWT Melati Desa Cikarawang)",2016,SARI RAHAYU,"Price is the only element in marketing mix which generates income for a company. However, marketing new products are sometimes not supported by the unavailability of historical data. The role of pricing for new products is very important for the continuity of production and marketing. KWT Melati is an agribusiness group which runs in processing sector and is located in Cikarawang Village. This group was success find creating new product in the form of drinks made of crystal guava fruit juice and purple sweet potato juice. The aims of this study were to calculate the production cost, analyze the price range that can be accepted by consumers and analyze the zone of price flexibility. The method used was optimal price minimum and costumer price maximum. It was found in this study that the cost of product by using the full costing method was higher than the actual condition. Price range that was accepted by consumers for crystal guava fruit juice drinks ranged from Rp4 357 to Rp6 337 per bottle and Rp4 250 to Rp6.708 per bottle for purple sweet potato juice drinks. Flexibility zone price was found to be contained in the drinks made from crystal guava fruit juice and purple sweet potato juice drinks.","cost of product, marketing strategy, zone of flexibility"
+"PENGARUH PERSEPSI MEREK, PERSEPSI HARGA, DAN
+PERSEPSI IKLAN TV TERHADAP MINAT BELI KOPI SIAP
+MINUM ",2016,ANISA NURHESTI HUTAMI,"Buying interest shows the intention or tendency in making a decision whether to buy or not. This study purposed to analyze the influence of brand perception, price perception, and TV ads perception towards buying interest of national brand and imported brands ready to drink coffee in PPKU students. This study use pre-experimental design (one group pretest and posttest design). The treatment that used is the exposure of brand, price, and TV ads to consumer. Total sample are 62 students that divided into 2 groups: 31 person for coffee drinker group and 31 for non coffee drinker group. The results showed that brand perception, price perception, and TV ads perception does not influence the student buying interest on national brand ready to drink coffee. Instead, only brand perception that has an influence toward student buying interest on imported brand ready to drink coffee. ","brand perception, price perception, TV ads perception, buying interest "
+"INTEGRASI PASAR KOPI INDONESIA DAN AMERIKA
+SERIKAT SERTA PENGARUH GUNCANGAN NILAI
+TUKAR RUPIAH TERHADAP HARGA KOPI INDONESIA",2016,I MADE PRADITYARJUNA MAHATMYAM MAHAYANA,"Coffee is one of the main exporting commodity in Indonesia that has the potential to grow and develop in International trade. Indonesia as the exporter, US as the main importer and then there is International coffee market may have a relationship and intergrated. The objectives of this study is to analyze price behaviour and the integration between coffee markets, and also to analyze the impact of the exchange rate to domestic prices. The method used for this study is vector error correction model (VECM) to analyze the market integration and with IRF and FEVD to analyze the impact of the exchange rate. The estimation results indicate that there is a cointegration in the model studied and that means there is a long-term relationship between arabica coffee markets. In the short-term, Indonesia and US coffee market are intergrated in both arabica and robusta coffee market. From the other analysis, the exchange rate has small impact to the Indonesian arabica and robusta coffee price movement.
+","market integration, coffee prices, exchange rate, VECM, IRF,
+FEVD"
+"ANALISIS FAKTOR-FAKTOR YANG MEMENGARUHI
+VOLATILITAS HARGA BERAS DI INDONESIA ",2016,TEGUH ADITYA ,"Rice is the staple food by Indonesian as fulfillment of basic needs everyday. The purpose of this study is to analyze factors that affect the volatility of the price of rice on two regional cluster in Indonesia using monthly data from January 2010 until December 2015. This research was conducted by using panel data analysis and the volatility of the price of rice as the dependent variable. While the independent variable are real GRDP, the exchange rate, the wages of farmers, and government effectiveness in applying the HPP to dry grain harvest (GKP). The results show that in cluster 1, the exchange rate, the wages of farmers, and government effectiveness in implementing HPP has a significant influence on the volatility of the price of rice. While in cluster two, the real GRDP and the wages of farmers significantly influence the volatility of the price of rice.","Cluster, Panel data, Rice, Volatility"
+"PERAMALAN HARGA LELANG TEH HITAM ORTHODOKS
+JENIS BROKEN GRADE PADA PT. KHARISMA PEMASARAN
+BERSAMA NUSANTARA, JAKARTA",2016,IRA JULIANA RACHMAWATI,"Tea is one type important commodities of plantation in indonesia. Production tea in Indonesia is not only for domestic consumption but also in exports to various countries. Tea in export must go to the bidding process. Auction tea in Indonesia held by PT. Kharisma Pemasaran Bersama Nusantara (PT. KPBN) or Jakarta Tea Auction (JTA). Tea auctioned in JTA is production of PTPN. The tea used in this research is black tea orthodox kind of broken grade, because most interested in the buyers. But does not mean the price always increas in every auction, because in the determination of the price hanging from the quality and the previous price. The purpose of this research is reviewing advantages and limitations in the implementation of the auction, identify the auction price data black tea orthodoks of broken grade, and forcasting auction price black tea orthodoks of broken grade in JTA until 2016. This research using data time series from January 2008 until December 2014. The methods for forecasting auction price black tea orthodoks of broken grade is Autoregressive Integrated Moving Average (ARIMA) model. The results of the study showed the advantages an auction system is positive impacts on economic stability and state finances, built in control, and ability to set the price. The limitation is limited infrastructure, the role of the government yet optimal, and the weak bergaining power. The decrease and increase in auction price caused by the sentiment of market due to the political crisis in egypt, the quality of tea, production and the quality of tea produced. Based on the results of forecasting, black tea orthodoks of broken grade having growth rate highest is Broken Orange Pekoe Fanning (BOPF) with an average growth rate from January 2016 until December 2016 is 0,191 %.","ARIMA, broken grade, orthodox, auction price, black tea"
+"ANALISA PENGARUH HARGA, BRAND IMAGE DAN
+DIFERENSIASI PRODUK TERHADAP KEPUTUSAN
+PEMBELIAN OLEH-OLEH PEMPEK PAK RADEN
+(Studi kasus pada wisatawan domestik di Kota Palembang)",2015,DESTA ALDINU PRATIWI,"Aim of the research is to analyze the effect of price, brand image and product differentiation on purchase decision of Pempek Pak Raden. The data and information were collected from 100 respondents by using an accidental sampling. They were analyzed using a multiple linear regression, the result was Y = -1,271 + 0,604 X1 + 0,203 X2 + 0,301X3. The research analysis revealed that price, brand image and product differentiation had a positive and significant effect on customer purchase decision.","Brand image, price, product differentiation and purchase decision."
+"FLUKTUASI HARGA KOMODITAS PANGAN DAN
+DAMPAKNYA TERHADAP INFLASI DI PROVINSI BANTEN ",2015,ASTARI FEBRIANI SETIAWAN,"Banten Province has a fluctuative inflation.The highest inflation is contributed by food category, especially food commodity. Therefore, the price of food commodity become an important issue in the province of Banten. This research analyze the prices of food commoditiy, such as rice, corn, curly red chili, onion, beef, chicken meat and layer egg. The data that used in this research are the monthly time series data from January 2011 to December 2014. The purpose of this research were: 1) To describe the food commodity price developments in Banten; 2) To analyze fluctuations of food commodity prices and their impact on inflation in Banten; 3) To analyze the inflation linkages between regions around Banten Province. This research using descriptive analysis, VAR models (Vector Autoregression) or VECM (Vector Error Correction Model, and Granger causality. The results of a descriptive analysis shows during 2011-2014, the developments of commodity prices such as rice, corn, curly red chili, onion, beef, chicken meat and layer eggs generally showed an upward trend. VAR analysis results showed that in the short term only curly red chili which have a significant impact on inflation in Banten Province. On the long-term there are six commodities that impact significantly on inflation in Banten province, those are beef, corn, rice, chicken meat, layer egg and red chili curly. The results of Granger causality test show that there is only one way relation that is Banten inflation affecting Lampung inflation. ","fluctuation, food prices, inflation, VAR, VECM, Granger causality"
+"FAKTOR-FAKTOR YANG MEMENGARUHI RISIKO
+PRODUKSI DAN RISIKO HARGA AYAM RAS
+PEDAGING DI KECAMATAN PAMIJAHAN,
+KABUPATEN BOGOR",2015,DONI SETIADI,"
+Over the last three years from 2011 to 2013, broiler production in Pamijahan District is fluctuated which indicates a production risk. Broiler selling price also fluctuated during 2014 which indicates the risk of broiler selling prices faced by the core company. This study aim to analyze the influence of production factors on the broiler production risk that is faced by farmers in the Pamijahan district and the level of price risks faced by the core company. This research used Just and Pope model to analyze the factors which affect the risk of production. Price risk is measured by calculating the variance, standard deviation, and variation coefficient. Based on calculations, DOC, the feed, drugs, heaters, and labor are production factors that cause a risk, while the vitamins, vaccines, and chaff are production factors which can reduce the risk of production. Judging from the variation coefficient, sales in the third quarter , from July to September 2014 , has a price risk that is higher than the fourth quarter.","broiler, Just and Pope, price risk, production risk"
+"ANALISIS PERAMALAN DAN FAKTOR-FAKTOR YANG
+MEMENGARUHI HARGA BAWANG MERAH DI
+INDONESIA",2015,DEBBIE MEGASARI,"Onion is one of horticultural commodity from food crops subsector which is important for Indonesian. That commodity is often used in household consumption as a seasoning, complementary food ingredients, and a cure for some diseases. Nowadays, demand for onion increase with the increases of population and the developing of food industry. However, onion price was often fluctuating. This study aim to (1) analyze the developing of onion prices in Indonesia and trends in the future; (2) analyze the factors that affect onion price in Indonesia. This study uses data of onion price in Indonesia from June 2009 - May 2014, total of onion supply in Indonesia, total of onion consumption in Indonesia, and international onion price in 1993-2013. ARIMA model is used to predict onion price in the future and multiple linear regression model with estimation method of Ordinary Least Square (OLS) is used to estimate factors that affect the price of onion. The results of this study showed a trend of rising prices with fluctuating pattern in June 2009 – Mei 2014 and in June 2014 - May 2015 predicted that price will fluctuate and tend to increase. The factors that affect onion real price in Indonesia are delta of onion supply in Indonesia, lag of onion consumption in Indonesia, delta of international onion real price and lag of onion real price in Indonesia. ","ARIMA, forecasting, OLS, onion, price "
+"ANALISIS DAMPAK FLUKTUASI MINYAK MENTAH
+DUNIA TERHADAP HARGA KARET ALAM DOMESTIK",2015,NURUL RAHMADHANI LUBIS,"Natural rubber is one of the leading comodity estate crop subsector in Indonesia. However, over the past few years the domestic natural rubber prices tended to fluctuate. One of the external factors that affects the price of domestic natural rubber is the price of world crude oil. The purposes of this study are to analyze the impact world crude oil prices fluctuation and other factors that effect the domestic natural rubber prices and to analyze determinant factors influencing domestic natural rubber prices. This research was analyzed with VECM using time series data from March 2008 to December 2013. The result of VECM estimation indicates that world crude oil price affects the domestic natural rubber prices in the long term. The other variables that also affect the domestic price of natural rubber in the long term are the domestic natural rubber production and inflation. The production of natural rubber gives the biggest impact in domestic natural rubber prices. Meanwhile, the world crude oil has a small effect to domestic natural rubber price.
+"," crude oil, natural rubber, time series, VECM"
+"PENERAPAN MODEL GENERALIZED SPACE TIME PADA DATA
+HARGA GULA PASIR DI PULAU JAWA",2015,SUCI DARAPUTRI,"Generalized space time autoregressive (GSTAR) model is a model that function of location and time (space time). GSTAR is the development model of space time autoregressive (STAR) assuming different model parameters for each location so GSTAR tend to be more flexible than the STAR model. This research aim is determining suitable space time model of sugar price data in Java Island. The data used is the weekly price of sugar in Jakarta, West Java, Central Java, DI Yogyakarta, East Java and Banten in July 2008 until December 2014. The suitable space time model for sugar rates data in Java is GSTARI (1.1). The weight used in this research is inversed distance and contiguity. Modeling results show that the best model is weighted contiguity which has the smallest value of mean absolute percentage error (MAPE) about 3.66 % .","contiguity, GSTAR, inversed distance, space time"
+"ANALISIS SIKAP KONSUMEN DAN SENSITIVITAS HARGA
+TERHADAP JERUK MEDAN DAN JERUK MANDARIN
+DI YOGYA BOGOR JUNCTION ",2015,REGINA ELSA MONICA,"Orange is one of fruits that have a lot of varieties in Indonesia. Free trade system make the Government cannot do much to tackle increase import oranges. The inclusion of orange mandarin to Indonesia made the consumers have a choice between consuming medan orange or mandarin orange. The methods used in this research is a descriptive analysis, multiatribut fishbein, and price sensitivity. The majority consumers of orange are woman, married, bachelor, age ≥ 36 years, worked as housewife and have income Rp 2 600 000 – Rp 5 000 000. Based on fishbein analysis, respondent prefer attribute on an mandarin orange. Range price of medan oranges is Rp 36 000 – Rp 45 000. Range price of mandarin orange is Rp 33 000 – Rp 47 500 ."," Consumer Attitudes, Multiatribute Fishbein, Price sensitivity"
+"ANALISIS HARGA POKOK PRODUKSI DOMBA AKIKAH DI
+JASA LAYANAN AKIKAH WILAYAH BOGOR BARAT",2015,RIADI FESA MUTTAQIN ,"Aqiqah is slaughtering small ruminant, like goat and sheep, as expression of gratitude of parents on the birth of their child. Price or service fee of aqiqah is different at every business unit, so the research done by considering the cost of production. The study conducted at three sites sheep aqiqah services in West Bogor for three months. Data analysis using descriptive data by calculating the cost of production, income, and revenue cost ratio (RC-1 ratio). Production cost of ram weight 13 kg to 25 kg range from Rp 1 336 619 to Rp 2 180 942, while ewes in weight 13 kg to 19 kg range from Rp 946 619 to Rp 1 250 369. The differences in production cost is influenced by the cost of sheep and operational. Aqiqah service provider will receive a profit between Rp 102 131 to Rp 449 058 for every package. Aqiqah sheep RC-1 ratio has been more than 1 and the selling price has covered the production cost so that the business unit is beneficial and viable.","aqiqah, base production cost, sheep"
+PENGARUH VARIABEL MAKROEKONOMI TERHADAP HARGA SAHAM PERUSAHAAN SUBSEKTOR PERKEBUNAN,2015,SYUKRIATI,"The stock price of plantation subsector seems attractive because of its positive prospect while the rupiah exchange rate becomes low against US Dollar. The purposes of this study are (1) to analyze the impact of macroeconomic variables to the stock price, (2) to analyze one of macroeconomic variables which has the most significant impact to the stock price, (3) to analyze the future stock price and some macroeconomic variables movements during the period of January-March 2015 at Plantation Subsector Company which listed on Kompas100 Index (period February 2014-January 2015). The statistical methods used for data processing and analyzing are Multiple Linear Regression Analysis and Trend Analysis. The result of the study are: (1) the exchange rate and SBI rate have positive impact to the stock price, while inflation has negative impact to the stock price; (2) as a macroeconomic variable, exchange rate has the most significance impact to the stock price; (3) stock price, SBI rate, inflation, and US Dollar to rupiah rate are predicted will be increasing continuously during the period of January-March 2015.","exchange rate, inflation, plantation subsector, SBI rate, stock price"
+PERHITUNGAN HARGA POKOK PRODUKSI PADA UKM KUE RISKY,2015,DARA KARTIKA AGRARISTANTI,"Small and Medium Enterprises (SMEs) Risky Bakery is one of the companies which in practice does not include overhead costs in the calculation of the cost of production. As a result, the incompatibility effect on the actual income received. This study focuses only on the calculation of the cost of production of three products, namely lapis surabaya, rolls, and lapis legit. Research objectives: (1) to identify the costs incurred, (2) analyzing the cost of goods manufactured by the method of SMEs, and (3) to analyze the implementation of the calculation of the cost of production by the method of variable costing and full costing on SMEs Risky Bakery. This research uses variable costing and full costing method with company’s financial data from October 2014 to February 2015. The results showed that the cost of production per unit of lapis surabaya, rolls, and lapis legit based on the calculation of the two methods produce different amounts, but produce the same profit.","Cost of Production, Full Costing, SMEs, Variable Costing"
+"ANALISIS PERGERAKAN HARGA INTERNASIONAL
+MINYAK BUMI, CPO, DAN KEDELAI
+DENGAN PENDEKATAN VECM",2014,JAUHARI DWIPUTRA FADILA,"The issue of energy conversion became popular for the past few decades. Bioenergy is a leading products that are considered capable of replacing petroleum, because it is more green and sustain. If the demand for agricultural products was increased, the price of them would be increased too (ceteris paribus). By looking at monthly price between 2004-2013 from World Bank, this research studied the pattern of crude oil, crude palm oil (CPO), and soybeans price movements under an integrated market condition. The movement prices were analyzed by using Vector Error Correction Model (VECM), with FEVD and IRF approached, which indicated that there was cointegration between the crude oil price against soybeans and CPO price. Furthermore, the results of Granger causality test showed crude oil price had the two-way causal relationship with the CPO price, but not with soybeans price. Meanwhile, soybeans price was heavily influnced by the movement price of CPO in the long term.","Energy conversion, crude oil, VECM"
+"PEMETAAN DAN ANALISIS DISTRIBUSI HARGA PRODUKPRODUK PERTANIAN MENGGUNAKAN SISTEM
+INFORMASI GEOGRAFIS ",2014,HUSEN,"Information of price change of agricultural product is important in agribusiness because it is used for decision making of the distribution of agricultural products from and to various provinces in Indonesia. The objective of this research is to build an geographic information system of agricultural product prices for decision making distribution. The method of this research is by SDLC (Software Development Life Cycle) with the focus on prototype development. The software used in information system are software for database : MySQL, scripting language : PHP, HTML, and CSS, software to display the map : Mapserver, and software for the information system interface design : FrontPage. The result of this research is information system prototype that displays information of agricultural product price in the form of text, table and maps based on region (province) and time period (daily and monthly). "," geographic information systems, agricultural product, spatial data"
+"TINJAUAN DAN PROYEKSI HARGA KOMODITAS POKOK
+PANGAN INDONESIA",2014,ALFI IRFAN,"Sufficiency of food needs for human is important because it relates to the rights of citizens and human rights. The process of production ,distribution, and consumption is strongly influenced by domestic food prices. The contribution of food prices to the inflation in Indonesia is 79,61% (Statistic Center, 2013). Fluctuations in food prices is related to biological structure of commodities and agricultural environments, time lags in decision making related to the use of inputs until sell output, market structure, and policy impact. Information of food prices can be accessed to the State Logistics Agency (Bulog), Department of Trade and Industry (Disperindag), and Statistic Center (BPS). Standardization of daily food prices report made by Ministry of Trade Indonesia through Minister Decision No.522/MPP/Kep/11/1998. This regulations do not specifically regulate the location, the quality of the commodity, and commodity branded and nonbranded. this problem cause food prices data among government agencies and private companies different each other. Research on food prices fluctuation and data synergize between government agencies and private companies is important to predict the price and formulating the optimal policy in the future. Every commodities in Indonesia has different characteristics of data, average mean value, and the pattern. Therefore , the best forecasting method for one commodity not always be the best method for another commodity . Based on these problems, the objective of this study are: 1) Analyze the development of Indonesian food prices; 2) Identify synergy prices between State Logistics Agency (Bulog), Department of Industry and Trade (Disperindag) , the Statistic Center (BPS) , and results of the survey in each region; 3) Getting the best forecasting method to forecast the price of basic food commodities in Indonesia ; 4 ) Forecast the price of food commodities of Indonesia in the future . The results showed that there are 7 commodities which have increasing price significantly. Those commodities are cassava (65,44%), onions (87,50%), red chili (70,39%), beef (41,45%), eggs (33,98%) , salted fish (29,06%) and instant noodles (30,68%). Some other commodities have decreasing price. Those commodities are green beans (4,3%) , Filma cooking oil (0,80%) , and Minyakita cooking oil (5,81%). The difference between the price data from Bulog , BPS , Disperindag , and survey results up to Rp 10.177/kg for the same commodity at the same time. There are 4 best methods for forecasting Indonesian food prices. Those methods are Multiplicative winters, additive winters, quadratic trend, multiplicative decomposition, and ARIMA (Autoregressive Integrated Moving Average). Forecasting results indicate that Onion will contribute strongly effect to inflation."," basic food commodities, the synergy of data, time series analysis"
+"VOLATILITAS DAN DISPARITAS HARGA BERAS
+STUDI DI NEGARA INDONESIA, INDIA, DAN DUNIA",2014,SILVIA SARI BUSNITA,"Food security issue after 2008 global-crisis mainly affect the fluctuations of
+food price, especially on the major grain price from all over the world in the last few
+years. Even for the rice-commodity, the price hikes also occur in some of the
+country's major producers. Although the rice itself is still consumed by half of the
+world's population. Hence, the purpose of this research is to identify the volatility and
+disparity of the rice price in Indonesia, India, and the world market, as well as to
+analyze the affecting factors of the rice price volatility in Indonesia case. By applying
+monthly time-series data from 2007 to 2013, this research used the ARCH-GARCH
+model to identify the rice-price volatility, while the VECM model is used to analyze
+the affecting factors of it. The results show that Indonesia and the world rice-price are
+volatile, time-varying variables, with the disparity per years. As for India, the result
+found that no volatility in Indian rice-price. The VECM estimation result shows that
+on the long-run the supply side significantly affect Indonesia's rice-price volatility,
+which are domestic rice-stock, paddy-production, and domestic rice-price. While on
+the short-run world rice-price variable also influenced Indonesia's rice-price volatility.","ARCH-GARCH (Autoregressive Conditional Heteroscedasticity Generalized Autoregressive Conditional Heteroscedasticity), disparity, rice-price, VECM (Vector Error Correction Model), volatility"
+"FAKTOR-FAKTOR YANG MEMENGARUHI HARGA
+EKSPOR KARET ALAM INDONESIA",2014,TEUKU MUHAMMAD AL KAUTSAR,"Natural rubber has been the belle of the Indonesian export commodities. Until 2012, Indonesia is the largest exporter after Thailand. Rubber prices has an important role in the performance. Fluctuating prices will affect the income received by farmers. Not Stabilizing farmers‟ income because the price of rubber will make total production is interrupted. This is due to 80% of production in smallholder plantations. The purposes of this study are to describe condition the export price of Indonesian natural rubber and to analyze the factors affecting the export price of Indonesian natural rubber. This study uses panel data regression in 2002-2012. The results of this research indicate that world prices, export tariff, exchange rate, domestic consumption, export volume, and global crisis significantly influence the export price of Indonesian natural rubber.","data panel, export price, natural rubber"
+"KEPUASAN KONSUMEN DAN ANALISIS SENSITIVITAS HARGA
+PRODUK MADU PRAMUKA DI PT. MADU PRAMUKA",2014,NUR UTAMI,"The success of PT. Madu Pramuka in its modern honeybee farming business has encouraged the emergence of many varieties of similar products, thus it leads to more competitive market conditions. The purposes of the study were to analyze the importance level and attribute performance of the product, to analyze the level of customer satisfaction, and also to analyze the price sensitivity of the Pramuka Honey Product. The research methods that used were Importance Performance Analysis (IPA), Customer Satisfaction Index (CSI), and Van Westendorp method approach method. Based on the Importance Performance Analysis, attributes included in the first quadrant, wich are the first priority attributes that its performance should be fixed and improved, were the ease of obtaining product and the information on the packaging. Attributes included in Quadrant II, which are attributes that its quality should be mantained, were the flavors, the benefits and the authenticity of the product. From the analysis of Customer Satisfaction Index, a value of 78.63 was obtained indicating that consumers of Pramuka Honey were satisfied with the product. Based on the analysis of price sensitivity, the price of super Pramuka honey in size 650 ml which is Rp110 000, was in acceptable price range, that is bound on the lower end by Rp105 000 and on the upper end by Rp115 000.","Pramuka Honey, Satisfaction, Price Sensitivity, CSI, IPA "
+"ANALISIS FAKTOR-FAKTOR YANG MEMPENGARUHI
+HARGA DAGING SAPI DI INDONESIA",2014,PENI ARIANITA WARDANI,"To reduce dependence on beef import, Indonesian government declared an increase of beef production by Self Sufficiency Program 2014. The meaning of self sufficiency in this case is not only about its availability but also public access to food itself. Public access to the beef can be seen from its price. The price of beef in Indonesia is relatively high compared to other countries. This condition caused public purchasing power on beef to be low. In addition, the high price could not be an incentive for breeders to increase beef production. Based on this problem, this research aim to analyze the factors that affect the price of beef in Indonesia. This research used time series data form in period 2008 to 2013. As a result, based on descriptive analysis the price of beef in Indonesia is affected by its distribution chain. On the other side, based on multiple linear regression model there are three variables that affect the price of beef in Indonesia such as the price of beef earlier periode, Eid celebration, and volume of beef import. ","beef, price, self sufficiency"
+"PENGARUH KENAIKAN HARGA KEDELAI TERHADAP
+STRUKTUR BIAYA DAN KEUNTUNGAN USAHA TEMPE
+(STUDI KASUS: RUMAH TEMPE INDONESIA DI BOGOR) ",2014,RIDWAN LUKMANUL HAKIM,"Tempe is a processed product which has a high nutritional value. Tempe businesses are generally run by household and small industries. Tempe produced by RTI consist of genetic modifier organism and Non-genetic modifier organism soybean. This research had only analyzed GMO tempe produced of 450gr and 700gr package. The increase in soybean prices are expected to give effect to the business craftsmen tempe in this case the business RTI. This study aims to analyze the cost structure of the soybean business in RTI before rising soybean prices and the impact of price rise of soybean in terms of the feasibility analysis (R/C ratio and break-even point (BEP). The results showed that the increase in soybean prices affect revenue of RTI. But R/C ratio was rising after the price rise of soybean. Based on these conditions, RTI is advised to improve the amount of their market because of RTI’s market which are segmented.","GMO, sales revenue, R/C ratio, the break-even"
+DAMPAK KENAIKAN HARGA DAGING SAPI TERHADAP POLA KONSUMSI PANGAN SUMBER PROTEIN HEWANI DI KABUPATEN BOGOR,2014,ZULFATI RAHMA MAGISTRA,"One kind of food which has important role in developing the food security and create human resources who has healthy quality is food animal proteins. The government is targeting food consumption of animal protein as much as 7.2 g/capita/ day in 2014. Food sources of animal protein can be derived from livestock or fishery products like ruminant meat, poultry, fish, eggs, and milk. This study aims to analyze the pattern of household consumption in Bogor Regency, analyze the level of demand elasticity, and perform simulations to analyze the impact of higher prices for meat. The data used comes from SUSENAS 2012 with 1125 households in Bogor Regency. The analytical method used was descriptive analysis and model of Almost Ideal Demand System (AIDS). The analysis showed that the type of ruminant meat consumption group was very inelastic and have a lower level of consumption than other animal protein foods. People in Bogor Regency consume more fish than ruminant meat. Increasing the prices of beef could make other public consumption for food source of animal proteins is down. Food protein consumption for the people of Bogor regency have met the target set by the government.","AIDS, animal protein, consumption patterns, inelastic, SUSENAS "
+PENGARUH KENAIKAN HARGA KEDELAI TERHADAP PROFITABILITAS DAN NILAI TAMBAH USAHA TAHU BANDUNG KAYUN-YUN DI DESA CIHIDEUNG HILIR KECAMATAN CIAMPEA KABUPATEN BOGOR,2014,RAHMA FITRI,"Small industries is part of SME (Small Medium Enterprise) sector that gives an important role in Indonesia’s economic development. One of small industry that potentially to be developed is soybean industries such as tofu industries. Soybean price increase that occurred in 2013 affects tofu small industrial especially Usaha tahu bandung Kayun-Yun. The purpose of this research was to analyze the effect of soybean price increase on profitability and added value of Usaha Tahu Bandung Kayun-Yun. Research location was selected with the considerations that Ciampea subdistricts is one of the all subdistricts in Bogor district that known as tofu production centers. The results showed after soybean prices increased, the total cost increased by 44 957 794 per month, sales volume is still in 6700 pieces per day, the difference in cost of production in the amount of Rp 206/piece for 4 cm tofu and Rp 254/piece for 5 cm tofu, break-even point in goods value for 4 cm tofu in the amount of 586 pieces with 175 873 rupiah IDR and for 5 cm in the amount of 330 pieces with 115 557 rupiah IDR. Profitability value showed an increase of 30.25 % for 4 cm and 29.36 % for 5 cm tofu. The result of the added value also increased by Rp 8 672/kg for 4 cm tofu and Rp 8 195/kilogram for 5 cm tofu.","Soybean, Usaha tahu bandung Kayun-Yun, profitability, added value"
+"FAKTOR–FAKTOR YANG MEMENGARUHI HARGA
+KEDELAI INDONESIA ",2013,MARSELA DWI TAMISARI ,"The impact of rising price of soybean and its derivative product can be detrimental to the society. The purpose of this research identify factors that affect soybean price and to analyze the pattern of domestic soybean price dynamic and transmission. The method used in this research is VAR/VECM. The data used is the monthly time series January 2000–November 2012. Shocks of the domestic price of soybean variable, international price of soybean variable, fuel price (gasoline industry) variable, and the GDP variable that affect of rising price of domestic soybean, but based on VECM testing the GDP does not affect significantly both in the short or long term. Shocks of the consumption variable, imports variable, production variable, exchange rates variable, and inflation variable result that affect of domestic soybeans price decrease, but based on VECM testing inflation does not affect significantly both in the short or long term. The pattern dynamics of domestic soybean price is likely to increase, the length of time transmission shock of international soybean price toward domestic soybean price is 2–10 months.","soybean price, VAR/VECM, price transmission "
+"ANALISIS PENENTUAN HARGA POKOK PRODUKSI RTD
+ROSELLA DI UPT KERJASAMA F-TECHNOPARK
+INSTITUT PERTANIAN BOGOR",2013,RIFKA NURBAETININGSIH,"Calculation of the cost of goods manufactured has an important role as the basis for setting the selling price of product so minimal acceptance happens to be at breakeven point. Determining of RTD (Ready to Drink) Rosella cost of goods manufactured is carried out by F-Technopark is simple. The purpose of this study was to analyze the determination of the cost of goods manufactured by calculating of F-Technopark, process costing method on full costing approach and efficient of machines use and also the selling price calculation of F-Technopark and cost-plus pricing method and then compare the difference. Results of the study showed that the calculation of the cost of goods manufactured by F-Technopark is Rp2692.00, process costing method on full costing approach is Rp3835.00 and the cost of goods manufactured on the efficient of machines use is Rp3804.00. Selling price that setting by F-Technopark is Rp4000.00 while the selling price with cost-plus pricing method on a 15% markup is Rp4410.00 and Rp4794.00 at the 25% markup. Based on the results of the comparison, the difference happens is significant.","full costing, process costing, rosella"
+"ANALISIS DAMPAK VOLATILITAS HARGA MINYAK
+BUMI DUNIA TERHADAP HARGA CPO INDONESIA ",2013,"INDRI MUTIA MAULANI","Petroleum is one of the main energy source used many countries as input from a variety of economic activities. Changes in world oil prices to high price hikes lead to consumers looking for alternative fuels are relatively cheaper. Indonesia's own central do substitution for substitute energy sources such as biodiesel oil CPO. This research was conducted to analyze the impact of the volatility of world oil prices on the prices of CPO in Indonesia. Methods of analysis used in this study was the ARCH-GARCH model and VAR/VECM. The Data used is the time series of monthly data 2006: 1-2013: 1. The variables used are variable in world petroleum prices, the price of CPO Indonesia and Malaysia, and the price of CPO in Rotterdam (represents the world's CPO price). The volatility of world oil prices which is being estimated by the ARCH-GARCH model looks vary time varying suggests a tendency that continues to increase. VECM estimation results based on all significant variables in the long run. The Indonesia CPO price are likely to respond negatively to volatility and CPO Malaysia price. While the Indonesia CPO price showed a positive response to the CPO price in world.","volatility of world oil price, the price of CPO, ARCH-GARCH model, VECM model. "
+"ANALISIS VOLATILITAS HARGA DAGING SAPI POTONG
+DAN DAGING AYAM BROILER DI INDONESIA",2013,FADILA JZUQYNOVA BURHANI,"Beef consumption needs of Indonesian population tends to increase with the increasing number of the population and public awareness of the importance of animal protein. Meanwhile the price of beef cattle and broiler meat are fluctuative. The value of volatility describes how much the level of risk that will be faced in the future. Fluctuations in the price of beef cattle and broiler meat can be caused by a the unequilibrium of supply and demand. The objectives of this research were (1) to analyze the price forecast of beef cattle and broiler meat in Indonesia, (2) to identify factors that affect the price volatility of beef cattle and broiler meat in Indonesia, and (3) to identify alternative strategies related to the price volatility of beef cattle and broiler meat in Indonesia. This research used secondary data with the time series form in period February 2003 to February 2013. In this research ARCH-GARCH is used to analyze the price volatility of beef cattle and broiler meat in Indonesia. This analysis show that the price volatility of beef cattle and broiler meat in Indonesia will be lower.","beef cattle, broiler meat, demand, price risk, supply, volatility"
+"ANALISIS KETERPADUAN PASAR DAN TRANSMISI
+HARGA AYAM BROILER DI KABUPATEN BOGOR",2013,STEVI PEBRIANI,"Bogor as central production of broiler chicken has the highest population of broiler chicken in West Java. In the other hand, fluctuation price of chicken broiler put farmers and bussines in vulnerable condition. Large distance between production and marketing areas also affect the efficiency the marketing of broiler chicken in Bogor district. The research objective were to analyze market integration between consumer an producer market, and to analyze price transmision in consumer market at Cibinong, Leuwiliang, Citereup, Jasinga market in Bogor district. This research used Ravallion models to analyze market integration between consumer an producer market and Vector autoregression models to analyze price transmision in consumer market in Bogor district. The result of research indicated there are no market integration in short-run and long run integration relationship between consumers and producers broiler chicken market in Bogor district. Price transmision has been transmitted at consumer market in Bogor district. Two sided relationship between broiler chicken price at Cibinong and Citeureup also between Citeureup and Jasinga that each market influences price in other market. And one sided relationship market in Cibinong influences broiler chicken price in Jasinga market. On the other hand it shows that, Cibinong market are market leader between them and Leuwiliang market as isolated market between other market.","Broiler Chicken, Integrated market, Price transmission."
+"ANALISIS FAKTOR-FAKTOR PRODUKSI YANG
+MEMPENGARUHI RISIKO PRODUKSI DAN ANALISIS
+RISIKO HARGA TOMAT DI DESA GEKBRONG
+KABUPATEN CIANJUR",2013,TEDI ADITIA LESMANA,"At 2007 to 2011, the production of tomatoes in Cianjur fluctuated that indicated production risks. The selling price of tomatoes which fluctuates between January and December 2012 also indicates the price risk. The objectives of this research were to analyze the effect of production factors on production risks which were faced by tomato farmers in Gekbrong, and to analyze the level of price risk which were faced by tomato farmers in Gekbrong. This research used Just and Pope’s production function model to analyze the effect of production factors on production risks. Value of variance, standard deviation, and coefficient of variation were used to calculate the level of price risk. Based on calculations, the manure and potassium fertilizer were the risk inducing factors. While nitrogen fertilizer, phosphor fertilizer, liquid insecticides, leaf fertilizer, fungicide, and dry season were the risk reducing factors. Based on the value of variance, standard deviation, and coefficient of variation, the selling of tomatoes to cooperation has lower level risk than selling tomatoes to middleman.","price risk, production risk, tomato "
+"DAMPAK KEBIJAKAN HARGA PEMBELIAN PEMERINTAH
+TERHADAP PENAWARAN DAN PERMINTAAN BERAS
+DI NUSA TENGGARA BARAT",2013,RIZKI PRASOJO,"Nusa Tenggara Barat is one of the rice producer region in Indonesia. The rice production is higher than the consumption but the government still implement rice import policy. It cause the supply of rice to increase and the price of rice to decrease, then government purchasing policy is needed to resolve the price decrease. The purposes of the study were to: (1) identify factors that affect the supply and demand for rice, (2) analyze the impact of government purchasing price policy on supply and demand for rice, and (3) analyze the impact of government purchasing price policy on paddy producers and rice consumers welfare. The study used time series data from 1989-2009. Nusa Tenggara Barat supply and demand for rice model is contsructed as a system of simultaneous equations and estimated using Two Stage Least Squares (2SLS) method. Increasing government purchasing price policy simulation will increase supply and demand for rice, while eliminating the government purchasing price policy simulation will decrease supply and demand for rice in Province of Nusa Tenggara Barat. Increasing the government purchasing price policy will increase producers surplus, decrease consumers surplus, and increase net surplus (welfare increase), while eliminating the government purchasing price policy simulation will decrease producers surplus, incerase consumers surplus, and decrease net surplus (welfare decrease) in Province of Nusa Tenggara Barat.","rice, government purchasing price policy, producers and
+consumers for rice welfare."
+"IDENTIFIKASI POLA PERGERAKAN HARGA BERAS MELALUI
+DEKOMPOSISI DERET WAKTU SECARA ENSEMBLE",2013,CASIA NURSYIFA,"The price of rice is one of the important indicator to determine the availability of rice. Ensemble Empirical Mode Decomposition (Ensemble EMD) is an alternative approach to analyze rice price fluctuation behavior through the process decomposition into several intrinsic mode functions (IMFs) and the residual. The EMD could be applied to a dataset eventhough that the data are nonlinear and nonstationary so it can work with the characteristics of unstable rice prices between seasons and years. The concept of ensemble is needed to optimalize the characteristic scale of the IMF by adding a series of white noise in the data. This research was carried out on the identification of the time series pattern of monthly and weekly rice price in Jakarta using Ensemble EMD. Our Ensemble EMD approach resulted three IMFs which have large contribution to volatility of monthly rice price. Those are IMFs whose mean periods of 1.1, 2.8 and 5.6 years respectively. Meanwhile, from the weekly dataset, Ensemble EMD revealed three high contribution IMFs, whose mean period of 0.5, 1.0, and 3.4 years. Trend component contributes dominantly to the price level change. It could be seen by its contribution as long as 92.40% for monthly data and 96.34% for weekly data. Furthermore, the reconstruction of fine-to-coarse for weekly price data shows that all IMFs produced by decomposition weekly rice price are included in the high frequency component. It indicates that the imbalance of supply and demand market and the weather factor still affect the stability of rice prices in Jakarta.","empirical mode decomposition, ensemble, rice prices"
+"ANALISIS PENGARUH KENAIKAN HARGA KEDELAI
+TERHADAP KINERJA USAHA INDUSTRI TEMPE
+DI DESA CITEUREUP KABUPATEN BOGOR",2013,TITA NURSIAH,"Soybean demand continues to increase but does not meet sufficient domestic production resulting in higher price shock. An increase in soybean prices caused a major influence on tempeh industry in Indonesia, since soybean is the main input of tempeh,. The aims of this research were to analyze the effects of the increasing soybean price on business performance in terms of cost structure, revenue, profit, and efforts to deal with adjustments made under these conditions. This research was conducted from December 2012 to Februari 2013. This research used primary data from direct interviews with respondents and secondary data from relevant institutions and literature. The analysis tools used are quantitative and qualitative analysis. The results indicated that an increase in soybean prices affected rising of the total cost significantly because 70 percent of the cost was used for the purchase of soybeans. The condition led to decrease the amount of profit earned. Based on the comparison of the cost structure of the three production-scale showed there was a trend that an increasing of business scale will decrease the cost per kg of soybeans. It is concluded that an adjustment has to be undertaken in order to get high profit by reducing the size and increasing the price of tempeh.","soybean, tempeh, cost, effort"
+"ANALISIS PENENTUAN HARGA POKOK PRODUKSI BERAS
+ANALOG PADA F-TECHNOPARK SEBAGAI UNIT BISNIS
+DAN BUKAN UNIT BISNIS",2013,ARI SULISTIYANI,"Analog rice is an artificial rice made from a mixture of raw materials consisting corn starch and sago palm. The purpose of this study is to analyze the calculation of cost of production and selling price of analog rice by F-Technopark calculation as well as the comparison between as a business units, not as a business units and the calculation by F-Technopark and analyze the value added of analog rice. Results of calculation of the cost of production of analog rice by FTechnopark, not as a business units, and as a business units were calculated using the full costing method of each generating value per pouch are Rp8.189,40, Rp11.600,17 and Rp7.052,53. The calculation of selling price by cost-plus pricing method with some alternative markup is 10%, 15%, 20%, and 25% of the selling price of analog rice not as a business unit produces value per pouch respectively Rp12.760,19, Rp13.340,20, Rp13.920,21 and Rp14.500,22. While the value of the selling price of analog rice as a business unit per pouch respectively Rp8.404,27, Rp8.786,28, Rp9.168,29 and Rp9.550,31. There are differences in the value of the calculation by F-Technopark to the selling price of Rp12.000 per pouch. The value added analysis results Rp3.724,53 with a ratio of 28,65%.","Analog rice, cost-plus pricing, full costing, process costing, value added "

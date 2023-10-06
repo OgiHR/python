@@ -1,0 +1,299 @@
+Judul ,Tahun,Nama Penulis ,Abstrak,Keywords
+ANALISIS VOLATILITAS HARGA BAHAN PANGAN UTAMA DI INDONESIA,2017,MUHAMMAD GALIH PANGESTU,"""Indonesian agricultural products have price fluctuation (volatile food).
+Volatile food issues, Agreement of Agriculture (AOA) issues, and food security
+issues became the basis for analyzing the volatility of main food prices. Variable
+of staple food used in this study, such as rice, sugar, and oil use the time series
+data. Analysis price volatility focus of three indonesian areas, there are west
+(Medan, Palembang, Jakarta, Semarang), central (Denpasar, Samarinda), and east
+(Makassar, Jayapura) region. Methods of analysis used in this research is analysis
+of the econometric forecasting model Autoregressive Intergrated Moving Average
+(ARIMA) and Autoregressive Conditional Heteroscedasticity (ARCH) or
+Generelized Autoregressive Conditional Heteroscedasticity (GARCH). ARCH-
+GARCH analysis result indicate price of staple food and experience price
+volatility. Rice price volatility was highest in Samarinda City, sugar price
+volatility was highest in Semarang City, while oil price volatility was highest in
+Semarang City.""","ARCH-GARCH, ARIMA , palm oil, rice, sugar, volatility"
+"ANALISIS VOLATILITAS HARGA KOMODITAS BAWANG
+MERAH DI KABUPATEN NGANJUK
+(Studi Kasus: Harga Bawang Merah Pasar Warujayeng)",2017,ZUNA DYAH KUSUMA WARDHANI,"As one of the daily necessities, shallot is a horticultural crop that has
+potential in agriculture. High consumption levels make the price of shallot tends to
+fluctuate and vulnerable to inflation. As the second largest shallot production center
+in Indonesia, researchers chose Nganjuk regency as the object of research. This
+study aims to estimate the volatility of the price of shallot in Nganjuk regency with
+the price of Shallot Market Warujayeng; And analyzing the factors may affect the
+volatility of shallot prices in Warjayeng Market. The data used is secondary data
+with time series type from January 2012 to December 2016. Econometrics model
+used in this research is ARCH-GARCH model. Based on the analysis, it can be
+concluded that the price of shallot commodity has volatility pattern in March and
+July every year. The price of shallot in main market and also shallot's price of one
+week ago is a variable that affect the volatility of shallot price in Warujayeng
+Market. While the independent variables of rainfall, the price of shallot at Berbek
+Market, and dummy pest has no significant effect on price volatility","ARCH GARCH, shallot, factors, price fluctuations, volatility rate"
+"PERHITUNGAN HARGA POKOK PRODUKSI DAN
+HARGA JUAL (STUDI KASUS PD SAKAR WANGI DAN
+PD AMELIA JAYA) KABUPATEN BOGOR",2017,ARIS MUNANDAR,"Calculation of the cost of goods manufactured has an important role in
+monitoring the realization of the cost of goods manufactured and the determination
+of the selling price. This studyis conducted on small and medium enterprises
+(SMEs) namely PD Sakar Wangi and PD Amelia Jaya. Determination of the cost
+of goods manufactured in small and medium enterprises (SMEs) PD Sakar Wangi
+and PD Amelia Jaya, is still simple.The calculation made only takes into account
+the direct raw materials, direct labor costs and auxiliary materials. This study aims
+to comparing the calculation method of the cost of goods manufactured using full
+full costing approach applied by SMEs and determining the selling price of SMEs.
+The results show that the calculation of the cost of goods manufactured of
+mahogany door based on the calculation of PD Sakar Wangi and PD Amelia Jaya
+is smaller than the calculation of the cost of goods manufactured using full costing
+approach, the determination of selling price of based on the estimation of PD Sakar
+Wangi and PD Amelia Jaya is smaller than the determination of selling price based
+cost plus pricing method.","cost of goods manufactured, full costing, mahogany door"
+"ANALISIS PERGERAKAN DAN RISIKO HARGA CABAI
+DI PASAR INDUK KRAMAT JATI",2017,NOVA ISMAIL,"Chilies is one of horticulture commodities which is important for economy
+of Indonesian society. Because, agribusiness of chilies involves many parties in its
+system such as farmer, trader, and consumer. At trader level, especially at Kramat
+Jati central market, chilies are the most heavily traded commodity in term of daily
+commodity supply sent to central market. As for, chilies daily prices condition are
+fluctuate. The fluctuations of chilies prices cause price risk for this commodity.
+Price risk causes costs for trader. This study aims to analyze price movements and
+chili price risk on trader level at Kramat Jati central market. The data used is daily
+price period January 2013 to December 2015. This study used descriptive analysis,
+coefficient variance and variance with ARCH-GARCH model. The factors
+affecting the chili price in current period are the chili supply in current period and
+chili price in previous period. While, the risk of chili price in current period is
+affected by the volatility of chili price one day before and the variance of chili
+price one day and two days before.","ARCH-GARCH model, chili, product price risk"
+"ANALISIS HARGA CABAI MERAH BESAR DI PASAR
+ECERAN JAKARTA DENGAN MENGGUNAKAN
+ANALISIS GEROMBOL DERET WAKTU",2017,REGHINA ARDALOVA,"Red chili trading system in DKI Jakarta is determined by wholesalers and
+retailers. Wholesalers at Pasar Induk Kramat Jati plays a role to distribute red chili
+to all retailers in 43 local markets. Although all the supply of red chili comes from
+Pasar Induk Kramat Jati, but the price of red chili in the local market tends to vary.
+A considerable price difference in some local markets is the basic idea of this
+research. This study aims to analyze the price of red chili by cluster all retail market
+using clustering timeseries hierarchical method with ward linkage and CID as a
+distance. The clustering result generated four group of retail market. Each grup
+showed that there was a difference in price fluctuation, but in general each group
+showed a similar pattern of price movements. The marketing mechanism between
+each group and Pasar Induk Kramat Jati were not well integrated but did not indicate
+market segmentation. However, prices in the retail market remain influenced by
+prices at the Pasar Induk Kramat Jati, as can be seen from the t test significant result.
+Meanwhile, based on correlation analysis, there was no correlation between the
+distance of retail market to Pasar Induk Kramat Jati with the average weekly price
+in each market, while population density in every sub-district showed reverse
+relationship with correlation coefficient of -0.376.","CID, market integration, red chili prices, timeseries clustering"
+"PENGEMBANGAN MODUL PELAPORAN HARGA KOMODITAS
+PERTANIAN PADA APLIKASI PORTAL HARGA UNTUK
+PETANI MENGGUNAKAN REST API",2017,SHELLAFURI BIRU MARDIKA,"Agricultural commodities price may fluctuate every day, one of the causes is the
+middleman. The presence of middlemen may cause harm to the farmers, this is due to the
+price gaming by middlemen. This research is the development of agricultural commodity
+price reporting module for farmers side using the representational state transfer (REST)
+Application Programming Interface (API) with the MySQL database. The method used in
+this research is extreme programming. Data is processed on REST API using Node.js and
+the results of the data is saved in the form of JSON. This study aims to facilitate the farmers
+to present their harvest result and their aspirations to the government. In addition, the system
+also allows farmers to see aspirations, prices of agricultural commodities, and results of
+harves,t and support aspirations. The testing result using black box method showed that the
+main function of Portal Harga application worked correctly according to the application
+requirements.","agricultural commodities, fluctuation, price, REST API"
+"SISTEM PENETAPAN HARGA JAGUNG DAN KEDELAI DI
+PASAR TRADISIONAL JAKARTA TIMUR
+(PERIODE 2011-2015)",2017,FUZAWATY ZIHAN KUSUMAH,"The maize production in 2015 just realize 24.84 ton million and can not
+meet the national demand about 1.6 kilogram/capita/year. In another hand, the
+soybean production, which realize 963.18 ton thousand, also can not meet the
+national demand about 2.2 ton million. It cause a price fluctuation in maize and
+soybean commodities. This study aims to analyze the pricing of maize and
+soybean at the consumer level by using VECM and analyze market behavior of
+East Jakarta in pricing at the consumer level by using game theory. The results
+show that the maize price are positively influenced by the producer price, the
+wholesale price, and the gasoline price while negatively influenced by the supply.
+The soybean price is negatively influenced by the producer price and positively
+influenced by the wholesale price. Sudden changes in supply cause a price
+fluctuation on consumer. This probability occurs as the impact of dominant
+strategy in pricing through market pricing strategy by commodity retailers.","game theory, maize, soybean, VECM"
+"ANALISIS VOLATILITAS HARGA BAHAN PANGAN
+UTAMA DI INDONESIA",2017,MUHAMMAD GALIH PANGESTU,"Indonesian agricultural products have price fluctuation (volatile food).
+Volatile food issues, Agreement of Agriculture (AOA) issues, and food security
+issues became the basis for analyzing the volatility of main food prices. Variable
+of staple food used in this study, such as rice, sugar, and oil use the time series
+data. Analysis price volatility focus of three indonesian areas, there are west
+(Medan, Palembang, Jakarta, Semarang), central (Denpasar, Samarinda), and east
+(Makassar, Jayapura) region. Methods of analysis used in this research is analysis
+of the econometric forecasting model Autoregressive Intergrated Moving Average
+(ARIMA) and Autoregressive Conditional Heteroscedasticity (ARCH) or
+Generelized Autoregressive Conditional Heteroscedasticity (GARCH). ARCH-
+GARCH analysis result indicate price of staple food and experience price
+volatility. Rice price volatility was highest in Samarinda City, sugar price
+volatility was highest in Semarang City, while oil price volatility was highest in
+Semarang City."," ARCH-GARCH, ARIMA , palm oil, rice, sugar, volatility"
+"PERILAKU PELANGGAN DAN INSENTIF HARGA
+DAGING AYAM DALAM PENGENDALIAN PENYAKIT
+UNGGAS",2017,DITA MELIANA,"The consumption level of Indonesian society towards chicken meat tends to
+increase in 2011 and 2015 were accompanied by price fluctuations. This study
+aims to: (1) to analyze the characteristics and behavior of consumers of chicken
+meat. (2) analyze the consumer's willingness to pay and incentives chicken meat
+prices when scarcity and health guaranteed. (3) to analyze the factors that
+influence consumer willingness to pay for chicken meat. The analysis used in this
+research is descriptive analysis, approach Contingent Valuation Method (CVM):
+TIOLI and Bidding Games, and multiple linear regression analysis. The results
+showed the characteristics and behavior consuming dominated by housewives
+who buy chicken in the traditional market. The price consumers are willing to pay
+Rp38 165 per kg when scarcity and Rp38 205 per kg for chicken meat is
+guaranteed healthy. Incentives earned Rp16 per kg so inadequate to incentive
+businesses chicken meat supply chain. Factors affecting consumers' willingness to
+pay of chicken meat that is the level of education, occupation, income level,
+family size, and the amount of consumption of chicken meat.","chicken meat price, customer behavior, TIOLI and Bidding Games."
+"SISTEM PENETAPAN HARGA KOMODITAS BAWANG
+MERAH DAN CABAI MERAH DI JAKARTA TIMUR
+(PERIODE 2011 – 2016)",2017,NAAFI FATIMAH HARWANTI,"Shallot and red chili have become strategic issues that contribute to the
+policy of national economy. The problem of both commodities is caused by
+seasonal harvesting constraints that affect domestic stock supply and geographical
+factors that hinder the distribution process. The purpose of this study is to analyze
+the factors and strategy of retailers that could affect the pricing system of shallot
+and red chili commodities in East Jakarta. A monthly time series data from 2011
+to 2016 is used for this research. Furthermore, it also uses VECM method,
+descriptive analysis, and game theory analysis. The result of this study showed
+that the most influencing factors of shallot and red chili commodities pricing at
+the consumer level is the price of the producer and wholesaler. Maximum profit is
+earned when retailers apply collusion as a dominant strategy.","shallot, red chili, game theory, VECM"
+"ANALISIS KUALITAS RANSUM AYAM BROILER DAN
+EFISIENSI TATA NIAGA",2017,NADYA TARIGAN,"The aim of this research were to analyze quality and price of broiler ration
+in one feed mill in Balaraja, poultry shop and farms and to evaluate effectiveness
+of available marketing flows. Research used survey method, so obtained primary
+data were physical test data of ration and the price list of ration product from feed
+mill flows and interview results were described in descriptive. Secondary data
+were physical data of ration and product of ration price list at feed mill. Samples
+ration used AS 101, BR-1 and AS 102 with pellet durability index (PDI) tested.
+The quality of the ration was decreased particle size in feed mill to commercial
+farms, feed mill to poultry shops than independent farms, and feed mill to partner
+farms. It was happened because lack control of ration products in loading and
+unloading process, storage and stacking process ration products at the warehouse.
+Fixing price at feed mill were free market and captive market, and fixing price at
+poultry shop were determined from the costs incurred by the poultry shop and
+profit. The pricing from calculation of efficiency marketing was feed mill to
+independent farms.","ration quality, effeciency marketing, marketing flows"
+"EFISIENSI PEMASARAN WORTEL
+DI CIANJUR JAWA BARAT",2017,MUHAMMAD SHANDY PRATAMA,"his study aimed to identify an alternative marketing channels and
+analyzed the efficiency of carrot in Cianjur Regency, West Java. Data were
+collected from 14 farmers and 16 traders. This study used purposive sampling
+method for farmers and the snowball sampling method for traders. The farmers
+had four alternative marketing channels, namely (i) farmers – broker 1 – broker 2
+– wholesaler – retailer – consumer, (ii) farmers – broker 2 – wholesalers –
+retailers – consumers, (iii) farmers – broker 1 – retailers – consumers and (iv)
+farmers – wholesalers – retailers – consumers. Marketing channel (iv) was the
+most efficient marketing channel but of most farmers choose to take advantage of
+marketing channel (i).","carrots, marketing channel efficiency"
+"PROSPEK PENGEMBANGAN BISNIS PRODUK MEDIA
+TANAM ANGGREK DENDROBIUM DARI LIMBAH MEDIA
+JAMUR TIRAM",2017,HERFINA NOVITA DEWI,"Development of orchid’s growing medium product aim to utilize nutrient
+content such as Ca, Mg, P, K, Na, Fe, Zn, Mn, Cu, C, and N on spent oyster
+mushroom substrate that produced from cultivation of oyster mushroom. This
+research aims to provide business prospects overview for business establisment of
+dendrobium orchid’s growing medium product from spent oyster mushroom
+substrate through business model canvas (BMC) method. Preliminary research
+was conducted by making orchid’s growing medium product from spent oyster
+mushroom substrate and tapioca powder in 10 % concentrations. Interviews with
+respondents became the basis for updating BMC 0 to BMC 1. The sell price of the
+product is determined by cost of goods sold (COGS). The orchid’s growing
+medium product with such formulations is feasible commercialized at a price of
+Rp 12 000 and the business can be run on a micro scale and have a profit of Rp 2
+492 249 per month.","business prospect, dendrobium, growing medium"
+"ANALISIS BIAYA PRODUKSI MADU KEMASAN
+STUDI KASUS CV MADU APIARI MUTIARA
+DEPOK JAWA BARAT",,DIMAS RAMDHANI,"Honey is one of the non-timber forest products that the community is
+interested in. Demand every year for honey is increasing due to the high
+consumption of honey. But in reality the supply of raw materials is still limited and
+production has not been able to keep up with the still high demand. Therefore,
+increased production and competitiveness should be done honey company in
+Indonesia, so to achieve the target need a proper production cost planning to
+produce high profitability of production. The research of honey packaging
+production cost analysis is done at CV Madu Apiari Mutiara, one of the companies
+in Depok West Java that produce honey packaging. Based on the calculation, the
+production cost of honey is Rp 1 845.07 million / year, consisting of fixed cost Rp
+667.08 million / year (36.15%) and variable cost Rp 1 177.99 million / year
+(63.85%) with production of 27 335 kg / year. The calculation result of Break Even
+Point amounted to 16 510 kg / year, while the Return on Investment (ROI) of the
+company amounted to 48.04% and the basic price of Rp 80 998 / kg","organic honey packaging, production cost, profitability, break even
+point, cost of goods"
+"ANALISIS TATANIAGA DAN KEPUTUSAN PETANI
+BAWANG MERAH DALAM PENJUALAN HASIL PANEN
+DI KECAMATAN BREBES KABUPATEN BREBES
+JAWA TENGAH",2017,MAULANA SURYA GEMILANG,"Red onions is one of the prime commoditties in Indonesia. Brebes Regency
+is the largest production area of onion production compared than the other regions
+in Indonesia. The fluctuating price of red onion and high marketing margin
+between price by farmers and price that is paid by consumers make received
+farmer’s share by farmers is relatively small, then most farmers do sales of onions
+directly without being stored first. The purposes of this research are to ananlyze
+the function of trading, market structure, market behavior, efficiency of marketing
+channel and analysis of factors influencing onion sales. The research data were
+collected by observation and interview in Brebes disctrict, Brebes regency. The
+result of research there are four marketing channel that have the function of each
+marketing. The analysis of the marketing efficiency conluded that marketing
+channel III is the most efficient channel compared than the other marketing
+channels whit a treading margin of Rp3 700 and farmer’s share of 79.44 per cent.
+Based on the logistic regression of onion farmers, most of them sell directly onion
+with influencing factors is age, income, farming experience and perceptions of
+selling price.","Analysis, logistic regression, marketing, onion farmers"
+"KELAYAKAN USAHA IKAN GURAMI DI
+KECAMATAN CISEENG KABUPATEN BOGOR",2017,DINI ASTARI LILIPALY,"Carp business has a potential to run because of the high price. The purpose
+of this research is to anylise the carp business feasibility based on non financial
+and financial aspect and the sensitivity of production volume, fish feed price, fish
+seed price, silk worm price and salrary of permanent worker price alteration.
+Method used to anaylise the non financial aspect is descriptive, for financial
+aspect is the investment feasibility criteria consists of NPV, Net B/C, IRR dan PP
+and for sensitivity anylisis is switching value method. The result of carp business
+feasibility in non financial aspect is carp business is feasible to run. In financial
+aspect on scenario I hatchery, scenario II enlargment and scenario III hatchery and
+enlargments the result showed that all scenario is feasible to run because the score
+of investment feasibility criteria are suitable with the feasibility requirements.
+Between the three scenario, scenario II the enlargment business is the most
+feasible to run. Sensitivity anaylisis presented that decrease in production volume
+is most sensitve than other components.","agricultural commodities, fluctuation, price, REST API"
+"ANALISIS SUPPLY CHAIN
+KOMODITAS BAWANG MERAH
+(Studi Kasus : Desa Klampok, Kecamatan Wanasari, Kabupaten Brebes)",2017,AFIN RIYANI,"Brebes is one of the biggest shallot producers in Indonesia. However, the high yield
+of shallots in Brebes fails to create price stability in the region. The price that occurs at the
+level of final consumer is considered not balanced compared to the marketing margin
+received by the intermediary traders. It causes relatively higher price of shallots at the level
+of consumers than at the level of farmers. The aims of this research were to (1) analyze the
+business and the profit received by the farmers, (2) analyze the supply chain of shallots,
+and (3) analyze the efficiency of supply chain channel. The result showed that from the
+revenue analysis shallots in Klampok Village, the revenue received was Rp 42.750.000,
+and the revenue of total cost was Rp 12.874.725 and the revenue of cash cost was Rp
+17.009.875. R/C of cash cost was 1,66 while R/C of total cost was 1,43. The result showed
+that there were four marketing channel patterns in Klampok Village, Wanasari District,
+Brebes Regency that bridged the marketing activities between the farmers and final
+consumers. The marketing channel patterns were formed of several levels of main actors
+from the farmers, collecting merchant at village level, collecting merchant of district level,
+and collecting merchant of regency level. The marketing channel pattern IV was the most
+efficient marketing channel pattern of all other marketing channel patterns because it had
+the least marketing margin total and the biggest farmer’s share.","farmer’s share, marketing margin, shallot"
+"ANALISIS VOLATILITAS HARGA BAHAN PANGAN
+UTAMA DI INDONESIA",2017,MUHAMMAD GALIH PANGESTU,"Indonesian agricultural products have price fluctuation (volatile food).
+Volatile food issues, Agreement of Agriculture (AOA) issues, and food security
+issues became the basis for analyzing the volatility of main food prices. Variable
+of staple food used in this study, such as rice, sugar, and oil use the time series
+data. Analysis price volatility focus of three indonesian areas, there are west
+(Medan, Palembang, Jakarta, Semarang), central (Denpasar, Samarinda), and east
+(Makassar, Jayapura) region. Methods of analysis used in this research is analysis
+of the econometric forecasting model Autoregressive Intergrated Moving Average
+(ARIMA) and Autoregressive Conditional Heteroscedasticity (ARCH) or
+Generelized Autoregressive Conditional Heteroscedasticity (GARCH). ARCH-
+GARCH analysis result indicate price of staple food and experience price
+volatility. Rice price volatility was highest in Samarinda City, sugar price
+volatility was highest in Semarang City, while oil price volatility was highest in
+Semarang City."," ARCH-GARCH, ARIMA , palm oil, rice, sugar, volatility"
+"KELAYAKAN PERENCANAAN USAHA KALE DI FAM
+ORGANIC KABUPATEN BANDUNG BARAT",2017,WIDI ASTITI LESTARI,"Kale has a high price but the number of kale farmer is small. The purpose
+of this research is to anylise the kale business feasibility based on non financial,
+financial aspect and the sensitivity of production volume and increase rabbit urine
+price. Method use to anylise the non finacial aspect is descriptive, for financial
+aspect is theinvestment feasibility criteria consists of NPV, Net B/C, IRR and PP
+and for sensitivity anylisis is switching value method. The result of kale business
+feasibility in non financial aspect is kale business is feasible to run. In financial
+aspect on scenario I cultivation of kale andscenario II cultivation of kale and
+horenzo the result showed that all scenario is feasible with the NPV scores are Rp.
+2 125 418 664 and Rp. 2 598 969 882, Net B/C score are 2.17 and 2.45, IRR score
+are 24% and 29 %and payback period score are 5 years 6 month and 4 years 8
+month. Sensitivity anylisis presented that decrease in production volume is more
+sensitive than increase bio fertilizer price, increase salary of labor and increase seed
+price in kale planning business feasibility.","Planning business feasibility , kale business, feasibility criteria,
+switching value"

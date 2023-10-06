@@ -1,0 +1,216 @@
+Judul ,Tahun,Nama Penulis ,Abstrak,Keywords
+"PERAMALAN HARGA KOMODITAS CABAI BESAR DI
+PULAU JAWA DENGAN MODEL SPACE TIME TRANSFER
+FUNCTION",2020,ANGGITA NURUL ANNISA,"Time series analysis is a statistical method commonly used for forecasting.
+In addition to the time element, forecasting also needs to pay attention to the
+influence of explanatory variables and spatial elements, so that the forecasting is
+done can provide more accurate results. One time series analysis method that
+considers the effect of explanatory variables and spatial elements is the Space Time
+Transfer Function (STTF). Data that can be analyzed using the STTF model are
+time series data that have spatial influence. The data used in this study are large
+chili commodity price data and average rainfall data in each province in Java from
+January 2017 to December 2019. The purpose of this study is to determine the effect
+of average rainfall and spatial influence on the prices of large chili commodities
+from time to time. The results of this study are the price of large chili commodities
+in a particular month influenced by the average rainfall in the previous 3 months
+until that month. The price of large chili commodities in one province is also
+influenced by prices in other provinces directly adjacent to the province. These
+happens because there is a large chili commodity distribution in each province.","forecasting, large chili commodity prices, space time transfer function,
+time series analysis."
+"DAMPAK PERUBAHAN IKLIM TERHADAP HARGA
+KOMODITAS KOPI DI DAERAH TERDAMPAK FENOMENA EL NINO
+DAN LA NINA",2020,NABILA SADELINA,"Natural phenomena such as prolonged drought, increased rainfall, fires and
+floods that occurred in Indonesia, currently have a wide impact on all aspects of
+human life. This is caused by climate change which has a significant impact. The
+impact of climate change is an increase in extreme climate. Climate change makes
+striking temperature anomalies such as the El Nino and La Nina phenomena or
+commonly referred to as the ENSO (El Nino Southern Oscillation) phenomenon.
+The ENSO phenomenon causes fluctuations in rainfall, thus affecting the
+agricultural sector, especially the plantation subsector. This study examines the
+impact of climate change on coffee prices using the static data panel method. The
+data used in this study in the form of 12 provinces affected from 2010 to 2017.
+The ENSO phenomenon is shown through rainfall indicators. The results obtained
+in this study are that El Nino has a significant effect in increasing coffee prices,
+and is followed by other factors, namely the price of substitute goods (chocolate
+prices), productivity and Real GDP.","coffee prices, El Nino, ENSO, La Nina, static panels"
+"PENGARUH PERSEPSI HARGA DAN PERSEPSI KUALITAS
+PRODUK TERHADAP MINAT BELI SUTERA MANDAR",2020,YUNI KARTIKA,"Mandar silk is a traditional woven fabric made from silk yarn obtained from
+silkworms and produced in West Sulawesi. This study aims to analyze the influence
+of consumer characteristics, perceived price, and perceived product quality towards
+purchase intention of mandar silk. This study uses a cross sectional study design,
+which was conducted in Polewali Mandar District, West Sulawesi. The research
+location was chosen purposively. An example in this study is a visitor of a mandar
+silk fabric shop as many as 60 people. Sampling was done using convenience
+sampling techniques. The type of data used in this study is primary data obtained
+from direct interviews guide by questionnaire. The results of the multiple linear
+regression test show that consumer characteristics, perceived price and perceived
+product quality simultaneously have a positive significant influence towards
+purchase intention of mandar silk. However, partially only the age of the consumer
+and perceived product quality have a positive significant influence towards
+purchase intention of mandar silk.","consumer characteristics, mandar silk, perceived price, perceived
+product quality, purchase intention"
+"PENENTUAN HARGA OPSI LOOKBACK DENGAN
+FLOATING STRIKE PRICE MENGGUNAKAN
+METODE MONTE CARLO",2020,GHINA SALSABILA,"Lookback option is an option whose payoff depends on the maximum or
+minimum of the asset price reached during the option period. The lookback option
+is said to be a floating strike price if the value of the strike price is equal to the
+stock price at maturity. The value of the lookback option is determined by the
+Monte Carlo method, while the exact value is obtained from the largest simulation
+value that the computer can compute. Based on the calculation results, the
+resulting relative error value get smaller with the increasing number of
+simulations performed. Therefore, the Monte Carlo method to calculate the price
+of the lookback option with the floating strike price converges to the exact value.","ookback option, floating strike price, Monte Carlo method,
+convergent"
+"ANALISIS HARGA SAHAM MENGGUNAKAN
+MODEL BLACK-SCHOLES DAN
+RUNGE-KUTTA ORDE 4",2020,YOGI ADI SYAH PUTRA,"Stock is a certificate of ownership of a company. Stock analysis and the
+parameters used are important to provide big profits in the future. Black-Scholes
+is a model for analyzing options using Brownian motion. Stock options in
+Indonesia are no longer valid, therefore this research uses the Black Scholes
+model with Runge Kutta Order 4 to analyze the stock price of PT Bank Rakyat
+Indonesia Tbk (BBRI) with an error of 2.27%, PT Bank Cabang Asia Tbk (BBCA)
+with an error of 2.00%, and PT Bank Mandiri Tbk (BMRI) with an error of
+2.44%. This small average error value can prove that this model can be used to
+analyze stock prices.","Black-Scholes, Brownian, Stock."
+"FAKTOR-FAKTOR YANG MEMENGARUHI PERMINTAAN
+GULA DI INDONESIA",2020,FAHMI AHDIANA,"The demand for sugar in Indonesia show increased trend. In the 2013-2017
+period, the demand for sugar in Indonesia is increased by 9.88 percent. There are
+many factors that affect the demand for sugar in Indonesia. The purpose of this
+study is to describe economy condition of sugar in Indonesia and to analyze the
+factors that affect the demand for sugar in Indonesia. The data that used in this study
+are timeseries data from secondary sources in the range of 1993-2017. This study
+uses several types of data including sugar consumption (DG), sugar price (PG),
+coffee price (PK), population growth (DPOP), and GDP per capita (GDP). Data is
+processed with multiple linier regression model using Eviews 9 by ordinary least
+square analysis method. The result showed that sugar price and GDP per capita has
+positive effect. While coffee price and population growth has negative effect. Sugar
+price, coffee price, GDP per capita, and population growth significantly influence
+the demand for sugar on the significance level of 10 percent.","demand for sugar, multiple linier regression, ordinary least square"
+"NATURAL LANGUAGE-BASED FINANCIAL FORECASTING
+OF THE RETURN OF JAKARTA COMPOSITE INDEX
+USING SUPPORT VECTOR REGRESSION ON
+FINANCIAL NEWS PAGES",2020,AUDHI APRILLIANT,"Volatility of return in stocks can be influenced by economic factors and
+socio-economic sentiments that are available in the market. One of the data source
+about socio-economic sentiments is financial news. The number of financial news
+is increasing with along the development of technology and big data era. That
+matter, especially the unstructured data, needs to be utilized in return of stock price
+forecasting. The objective of study is to forecast the return of Jakarta composite
+index (JCI) using natural language-based financial forecasting (NLFF). NLFF was
+applied using predictors from features extraction of textual data, such as sentiment
+and also other mathematics calculations. The forecasting of JCI was conducted by
+using support vector regression (SVR) based on financial news data from Okezone,
+Kompas, and Detik in 2019. In order to get optimum hyperparameters,
+hyperparameters tuning was using walk-forward optimization. The best
+hyperparameters were obtained by comparing the root mean square error (RMSE)
+for each hyperparameters combinations. This study indicated that radial basic
+function was the best kernel because it had the smallest RMSE with the highest
+Pearson correlation compared to linear and polynomial. The JCI forecasting which
+is using only financial news data did not produce good prediction.",hyperparameters tuning; JCI return; NLFF; support vector regression
+"PENGEMBANGAN SISTEM MONITORING HARGA, STOK,
+DAN PRODUKSI CABAI MENURUT SENTRA PRODUKSI
+DENGAN METODE EXTREME PROGRAMMING",2020,GILANG GUNAWAN,"Chili is a commodity that has a large part of inflation in Indonesia due to
+fluctuating prices. The scarcity of chili, inefficient distribution patterns, and the
+length of the supply chain are the triggers for this problem. The development of
+technology is one solution that can be used to overcome these problems. The
+purpose of this research is to develop a system that displays historical data to users
+related to chili in each production center. This system was developed through a
+descriptive analytics approach which is one part of business analytics. Through this
+chili monitoring system per production center, the public can monitor developments
+in the price, stock, production, and productivity of chili in every region in West
+Java. In addition to its benefits to the general public, this system is also utilized by
+stakeholders in making distribution policies, setting targets, and capital for chili
+business in each production center. This research uses extreme programming
+methods that are applied in application development. This web-based system with
+six main features to support information needs related to chili in West Java.","chili, descriptive analytics, extreme programming, monitoring,
+production centers"
+"ANALISIS PERBANDINGAN BIAYA PENGADAAN KAPAL JENIS
+KAYU DAN FIBERGLASS DI PELABUHAN PERIKANAN
+SAMUDERA CILACAP",2020,MOHD FADIL YUTARO,"Fishing vessels in Indonesia generally use wood material. Wood was chosen
+because it is easy to work on, easy to design and recyclable. Wood has experienced
+scarcity in nature and it is difficult to obtain due to excessive wood exploitation.
+The Ministry of Maritime Affairs and Fisheries (KKP) has conducted a conversion
+program for the use of wooden ships to fiberglass ships through assistance for
+fishermen. Fishermen are still reluctant to use fiberglass vessels because they
+consider wooden vessels to have lower procurement costs. The purpose of this study
+were to estimate and compare ship procurement costs, maintenance costs and
+depreciation costs for wooden ships and fiberglass vessels. The analytical method
+used was the calculation of the magnitude of the Gross Tonnage, the analysis of the
+total production cost of shipbuilding and the analysis of depreciation costs. The
+results showed a comparison of the total cost of making and selling prices that are
+components of the cost of procurement of ships incurred for the manufacture of
+three wooden ships and three fiberglass ships with a comparatively comparable size
+obtained that the cost of procuring fiberglass vessels was cheaper than wooden
+vessels. Comparison of maintenance costs and depreciation costs incurred per year
+for three wooden ships and three fiberglass vessels that have varying sizes with a
+relatively similar size ratio obtained by the cost of maintaining the ship and
+depreciation costs incurred for ships made of fiberglass worth less than wooden
+vessels.","depreciation costs, gross tonnage, maintenance costs, production costs,
+selling prices"
+"KAJIAN PENDUGAAN AREA KECIL UNTUK STATISTIK
+INDEKS HARGA KONSUMEN KABUPATEN/KOTA DI
+PROVINSI JAWA BARAT DAN MALUKU",2020,ANDI OKTA FENGKI,"Consumer price index statistics (CPI) are needed as one indicator to know
+the economic characteristics of an area. CPI statistics are needed up to the regencies/
+municipalities level in this decentralization era. It’s like other important statistics
+that are available up to the regencies/ municipalities level. On the other hand,
+surveys to obtain CPI statistics are very limited so that CPI statistics are not
+available in many regencies/ municipalities. The regencies/ municipalities that have
+CPI statistics are incomplete in one province in all provinces in Indonesia.
+There are two problems faced when the regency/municipality CPI needs to
+be estimated. First is the resulted CPI statistics are only representative for urban
+areas because in this area samples are available to estimate it. Second is the
+existence of regencies/municipalities that do not have samples but their CPI
+statistics need to be provided. The small area estimation (SAE) methods can be
+applied as a solution to improve the accuracy of direct estimation results in area
+samples and also obtain CPI statistics in non-sampled regencies/municipalities.
+This study used the released data by BPS. The response variables were the
+January 2018 consumer price index (CPI), obtained from the 2012 SBH and 2018
+SHK. There were seven response variables according to the number of expenditure
+groups. The auxiliary variables were obtained from the village potential data
+collection in 2018 (PODES 2018). This PODES 2018 data was the result of
+compilation of village administration data by BPS. There were 37 auxiliary
+variables consisting of six aspects. The form data was the ratio of the existence of
+villages in a regency/municipality based on these six aspects.
+In this study, the regency/municipality CPI was estimated using the Fay-
+Herriot model and the parameter were estimated by empirical best linear unbiased
+predictor (EBLUP-FH). The results show that the EBLUP-FH can produce CPI
+statistics at the sampled regencies/municipalities with better accuracy than direct
+estimation in West Java Province. This is indicated by the value of the relative root
+mean square error (RRMSE) of the EBLUP-FH CPI is smaller than the direct
+estimator. The EBLUP-FH produced sample regency/municipality CPI statistics
+with accuracy that was no better than direct estimation in Maluku Province. This
+means that the EBLUP-FH estimator has not been able to improve the estimation
+results directly with the sample size available in Maluku Province. Then, this study
+improved the model using imputation for some observation with mean and
+regression of CPI statistics, so the better EBLUP-FH estimator was obtained. The
+EBLUP-FH can also produce non-sampled regency/municipality CPI statistics with
+good result.","consumer price index, EBLUP, Fay-Herriot model, small area
+estimation"
+"FAKTOR-FAKTOR YANG MEMENGARUHI IMPULSE
+BUYING ES KOPI SUSU KEKINIAN DI KOTA BOGOR",2020,KANIA TISTYA KHARISTA,"Coffee is one of favourite drink for people in Indonesia. In 2017, the
+presence of iced milk coffee become a phenomenon and many people seeing this
+as an opportunity and made iced milk coffee as a core product. The increase number
+of restaurants and cafes in Bogor City is a proof of this trend. Businesses have to
+know about consumer behaviour for example is impulse buying inorder to compete
+and survive at this market. The purpose of this study is to identify consumer
+characteristics, analyzing the process of impulse buying and analyzing the factors
+that affect impulse buying to iced milk cofffee product in Bogor City. The method
+used are descriptive analysis and factor analysis using software Statistical Package
+For Social Science (SPSS) Statistics 19. There are fourteen factors formed as a
+results of analysis factor in this study that affect impulse buying iced milk coffee in
+Bogor City, the factors are including operational reliability, excellent service,
+product satisfaction, marketing through online media, consistent interns of products
+an services, practicality of packaging, packaging diplay, source of information,
+product aroma, consumer tastes, price discounts, product variations, product taste
+and product prices. Operational reliability is the most influencing factor.","factor analysis, iced milk coffee, impulse buying"
+"FAKTOR-FAKTOR YANG MEMENGARUHI KEPUTUSAN
+MASYARAKAT KAMPUS TERHADAP PRODUK PEMBIAYAAN
+(Studi Kasus: BPRS BOTANI IPB University)",2020,RAHMAH RAMDHANI,"BPRS Botani is a BPRS that is majority owned by IPB University. Based on
+the data, customers from the campus community are only 8.68 percent of the total
+population.The objective of this study was to analyze the factors affecting IPB
+community's decision on financing products of BPRS Botani’s with a sample of 100
+respondents. The methods used were descriptive analysis and logistic regression
+analysis. The results showed that religiosity, knowledge on Islamic banking,
+knowledge on BPRS Botani, service costs were significant positive, while the level of
+margins or prices were significant negative on decision to use BPRS Botani as
+financing products.","descriptive analysis, logistic regression analysis, BPRS, campus
+community, financing"
